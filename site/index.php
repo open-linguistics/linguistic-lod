@@ -26,12 +26,11 @@
 
       <div class="row">
 
-         <ul id="diagram" class="align-center">
+         <div id="diagram" class="align-center">
              <img src="images/llod-cloud-latest.svg"/>
-            <li>
-               <b><a href="#">Previous versions</a></b>
-            </li>
-         </ul>
+               <h3><b><a href="llod-cloud">About</a></b></h3>
+               <h3><b><a href="llod-cloud#older">Previous versions</a></b></h3>
+         </div>
       </div>
 
    </section> <!-- Tweet Section End-->
@@ -40,39 +39,55 @@
    <!-- Info Section
    ================================================== -->
    <section id="info">
+        <div class="row">
+         <div class="twelve columns align-center">
+            <h1>What is LLOD?</h1>
+         </div>
 
-      <div class="row">
 
-         <div class="bgrid-thirds s-bgrid-halves">
+        <div class="twelve columns">
+            <p>
+            <b>Linguistic Linked Open Data</b> is a movement about publishing 
+data for linguistics and natural language processing using the following principles:
+            </p>
+            <ul class="disc">
+                <li>Data should be <em class="blue">openly</em> license using licenses such as
+the <a href="https://creativecommons.org/">Creative Commons</a> licenses.</li>
+                <li>The elements in a dataset should be uniquely identified by
+                    means of a <em class="blue">URI</em>.</li>
+                <li>The <em class="blue">URI</em> should resolve, so users
+                    can access more information using web browsers.</li>
+                <li>Resolving an LLOD resource should return results using <em class="blue">web
+                    standards</em> such as HTML, <a href="http://www.w3.org/RDF/">RDF</a> or <a href="http://json-ld.org/">JSON-LD</a> (Content Negotiation
+                    may be used to show different versions to different users).</li>
+                <li><em class="blue">Links to other resources</em> should be included to help users
+                    discover new resources and provide semantics.</li>
+            </ul>
 
-             
-             <div class="columns">
-                 <div style="background-color:#f08080;width:80%;height:30px"></div>
-                 <div>Linguistic Resource Metadata Repositories</div>
-                 <div style="background-color:#FD8C3B;width:80%;height:30px"></div>
-                 <div>Linguistic Categories</div>
-                 <div style="background-color:#31a354;width:80%;height:30px"></div>
-                 <div>Lexicons and dictionaries</div>
-             </div>
+            <p>The primary benefits of LLOD have been <a href="http://www.springer.com/cda/content/document/cda_downloaddocument/9783642317811-c1.pdf">identified</a> as:</p>
 
-             <div class="columns">
-                         <div style="background-color:#e6550d;width:80%;height:30px"></div>
-                         <div>Typological metadata</div>
-                         <div style="background-color:#fdae6b;width:80%;height:30px"></div>
-                         <div>Other metadata</div>
-                         <div style="background-color:#a1d99b;width:80%;height:30px"></div>
-                         <div>Terminologies, thesaurus and knowledge bases</div>
-             </div>
+            <ul class="disc">
+                <li><em class="blue">Representation</em>: Linked graphs are a more
+                    flexible representation format for linguistic data</li>
+                <li><em class="blue">Interoperability</em>: Common RDF models can
+                    easily be integrated</li>
+                <li><em class="blue">Federation</em>: Data from multiple sources
+                    can trivially be combined</li>
+                <li><em class="blue">Ecosystem</em>: Tools for RDF and linked 
+                    data are widely available under open source licenses</li>
+                <li><em class="blue">Expressivity</em>: Existing vocabularies
+                    such as <a href="http://www.w3.org/2001/sw/wiki/OWL">OWL</a>,
+                    <a href="http://lemon-model.net">lemon</a> and 
+                    <a href="http://persistence.uni-leipzig.org/nlp2rdf/">NIF</a> help
+                    express linguistic resources.</li>
+                <li><em class="blue">Semantics</em>: Common links express what you
+                    mean.</li>
+                <li><em class="blue">Dynamicity</em>: Web data can be continuously
+                    improved.</li>
+            </ul>
 
-             <div class="columns">
-                         <div style="background-color:#3182bd;width:80%;height:30px"></div>
-                         <div>Corpora</div>
-                         <div style="height:59px;"></div>
-                         <div style="background-color:#74c476;width:80%;height:30px"></div>
-                         <div>Other lexical resources</div>
-             </div>
-
-      </div>
+        </div>
+        </div>
 
    </section> <!-- Info Section End-->
 
@@ -188,7 +203,7 @@
 
             <div class="ten columns offset-2 post-content">
                <p>
-               If you wish to contribute to the linguistic linked data cloud and have your resource included in the cloud you must satisfy the following requirements. These requirement are derived from <a href="http://richard.cyganiak.de/2007/10/lod/#how-to-join">Richard Cyganiaks'</a>.
+               If you wish to contribute to the linguistic linked data cloud and have your resource included in the cloud you must satisfy the following requirements. These requirement are derived from <a href="http://richard.cyganiak.de/2007/10/lod/#how-to-join">Richard Cyganiak and Anja Jentzsch</a>.
                <a class="more-link" href="http://wiki.okfn.org/Working_Groups/Linguistics/How_to_contribute">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
             </div>
 
