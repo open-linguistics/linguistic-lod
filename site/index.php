@@ -1,5 +1,6 @@
 <?php
     $title = "Linguistic Linked Open Data";
+    $current = "home";
     include 'header';
 ?>
    <section id="intro">
