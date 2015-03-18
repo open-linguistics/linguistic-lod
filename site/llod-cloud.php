@@ -23,7 +23,7 @@ include 'header';
 
       <div id="page-content" class="row page">
 
-         <div id="primary" class="eight columns">
+         <div id="primary" class="twelve columns">
 
             <section>
 

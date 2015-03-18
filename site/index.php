@@ -28,9 +28,10 @@
       <div class="row">
 
          <div id="diagram" class="align-center">
+            <a href="llod-cloud">
              <img src="images/llod-cloud-latest.svg"/>
-               <h3><b><a href="llod-cloud">About</a></b></h3>
-               <h3><b><a href="llod-cloud#older">Previous versions</a></b></h3>
+            </a>
+             <h2><b><a href="llod-cloud">Interactive and Previous Versions</a></b></h2>
          </div>
       </div>
 
@@ -209,6 +210,38 @@ the <a href="https://creativecommons.org/">Creative Commons</a> licenses.</li>
             </div>
 
          </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://lemon-model.net/learn/5mins.php"><i class="fa fa-link"></i></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://lemon-model.net/learn/5mins.php">Getting started with lemon.</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  <!--<time datetime="2014-01-31" class="post-date" pubdate="">Jan 31, 2014</time>
+                  <span class="dauthor">By Sakura Haruno</span>-->
+                  lemon-model.net
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>
+                Lemon is an RDF model for representing lexical information relative to ontologies. This guides helps you get starte with using the <em>lemon</em> model.
+               <a class="more-link" href="http://lemon-model.net/learn/5mins.php">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
 
       </div> <!-- Entries End -->
 
