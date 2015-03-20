@@ -484,16 +484,16 @@ function makeDiag(json) {
             var i = order[j];
             count++;
             var gnode = svg.append("g")
-                .attr("transform", "translate(3, "+(count * 25)+")")
+                .attr("transform", "translate(3, "+(count * 15)+")")
                 .attr("legend_node", true)
 
                 gnode.append("circle")
-                .attr('r', 6)
+                .attr('r', 4)
                 .attr("cx", "0.5em")
                 .attr('fill',colors[i])
 
                 gnode.append("text")
-                .attr('style','font-size: 12px;')
+                .attr('style','font-size: 9px;')
                 .attr("dx", "2em")
                 .attr("dy", "0.3em")
                 .text(function(d) { return textMap[i] || i});
