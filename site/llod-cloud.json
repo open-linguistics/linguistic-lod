@@ -27,7 +27,7 @@
     }, 
     "gold": {
         "deadurls": 1, 
-        "edgecount": 4, 
+        "edgecount": 5, 
         "links": {}, 
         "tags": [
             "linguistics", 
@@ -42,6 +42,37 @@
         "triples": "3000", 
         "email": "", 
         "name": "General Ontology of Linguistic Description"
+    }, 
+    "apertium-rdf-eo-en": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 43289.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "English", 
+            "Esperanto", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-en", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "617772", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-EN"
     }, 
     "pdev-lemon": {
         "deadurls": 1, 
@@ -68,7 +99,7 @@
     "lexinfo": {
         "license": "public-domain", 
         "deadurls": 0, 
-        "edgecount": 26, 
+        "edgecount": 36, 
         "links": {
             "isocat": 359.0
         }, 
@@ -86,6 +117,37 @@
         "triples": "4374", 
         "email": "", 
         "name": "lexinfo"
+    }, 
+    "apertium-rdf-eo-es": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 29723.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Esperanto", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-es", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "380198", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-ES"
     }, 
     "bible-ontology": {
         "license": "http://www.opendefinition.org/licenses/gfdl", 
@@ -237,6 +299,28 @@
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF OC-CA"
     }, 
+    "simple": {
+        "license": "http://www.opendefinition.org/licenses/odc-by", 
+        "deadurls": 9, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 31449.0
+        }, 
+        "tags": [
+            "lexical-resource", 
+            "lexicon", 
+            "linguistic", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=simple", 
+        "aliveurls": 7, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "372294", 
+        "email": "monica.monachini@ilc.cnr.it", 
+        "name": "SIMPLE"
+    }, 
     "eurovoc-in-skos": {
         "license": "closed", 
         "deadurls": 2, 
@@ -336,7 +420,7 @@
     "lexvo": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 0, 
-        "edgecount": 21, 
+        "edgecount": 22, 
         "links": {
             "yago": 2577.0, 
             "dbpedia": 2577.0, 
@@ -483,6 +567,27 @@
         "triples": "245", 
         "email": "pmenke@TechFak.Uni-Bielefeld.DE", 
         "name": "FiESTA"
+    }, 
+    "sentiws": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "wiktionary-dbpedia-org": 4233.0, 
+            "lexvo": 3462.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=sentiws", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "30339", 
+        "email": "Sherif@informatik.uni-leipzig.de", 
+        "name": "SentimentWortschatz"
     }, 
     "apertium-rdf-pt-gl": {
         "license": "open", 
@@ -655,25 +760,36 @@
         "email": "okfngr@gmail.com", 
         "name": "Greek Wordnet"
     }, 
-    "wordnet-rdf": {
-        "license": "attribution", 
+    "apertium-rdf-eo-ca": {
+        "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lemonuby": 475503.0, 
-            "lexvo": 458907.0
+            "lexinfo": 32378.0
         }, 
         "tags": [
+            "Apertium", 
+            "Catalan", 
+            "Esperanto", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
             "lexicon", 
-            "linguistics"
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
         ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=wordnet-rdf", 
-        "aliveurls": 1, 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-ca", 
+        "aliveurls": 6, 
         "formats": 0, 
         "rdf_owl": 0, 
-        "triples": "8903374", 
-        "email": "john@mccr.ae", 
-        "name": "WordNet-RDF"
+        "triples": "426301", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-CA"
     }, 
     "semanticquran": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
@@ -697,6 +813,37 @@
         "triples": "15741399", 
         "email": "sherif@informatik.uni-leipzig.de", 
         "name": "SemanticQuran"
+    }, 
+    "apertium-rdf-es-an": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 5840.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Aragonese", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-es-an", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "71997", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF ES-AN"
     }, 
     "dbpedia-es": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -819,6 +966,27 @@
         "email": "", 
         "name": "OLiA Discourse"
     }, 
+    "galician-eurowordnet-lemon-lexicon-3-0": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 23399.0
+        }, 
+        "tags": [
+            "EuroWordNet", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=galician-eurowordnet-lemon-lexicon-3-0", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "734979", 
+        "email": "", 
+        "name": "Galician EuroWordNet-lemon lexicon (3.0)"
+    }, 
     "ontos-news-portal": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 0, 
@@ -848,7 +1016,7 @@
     }, 
     "mlsa": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 1, 
+        "deadurls": 0, 
         "edgecount": 2, 
         "links": {
             "wiktionary-dbpedia-org": 1371.0, 
@@ -861,7 +1029,7 @@
             "sentiment"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=mlsa", 
-        "aliveurls": 4, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "21000", 
@@ -1057,6 +1225,26 @@
         "email": "", 
         "name": "Atlante Sintattico d'Italia (ASIt)"
     }, 
+    "wordnet-rdf": {
+        "license": "attribution", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lemonuby": 475503.0, 
+            "lexvo": 458907.0
+        }, 
+        "tags": [
+            "lexicon", 
+            "linguistics"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=wordnet-rdf", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8903374", 
+        "email": "john@mccr.ae", 
+        "name": "WordNet-RDF"
+    }, 
     "masc-bn-nif": {
         "license": "public-domain", 
         "deadurls": 1, 
@@ -1224,7 +1412,7 @@
     "olia": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 0, 
-        "edgecount": 6, 
+        "edgecount": 7, 
         "links": {
             "isocat": 361.0, 
             "gold": 264.0
@@ -1291,7 +1479,7 @@
             "morphology"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=saldom-rdf", 
-        "aliveurls": 2, 
+        "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "8349115", 
@@ -1487,6 +1675,25 @@
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF ES-GL"
     }, 
+    "gemet-annotated": {
+        "license": "http://www.opendefinition.org/licenses/odc-odbl", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "gemet": 103569.0
+        }, 
+        "tags": [
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=gemet-annotated", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "231297", 
+        "email": "", 
+        "name": "gemet-annotated"
+    }, 
     "yago": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 6, 
@@ -1578,10 +1785,31 @@
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF ES-CA"
     }, 
+    "basque-eurowordnet-lemon-lexicon-3-0": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 27222.0
+        }, 
+        "tags": [
+            "EuroWordNet", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=basque-eurowordnet-lemon-lexicon-3-0", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1215583", 
+        "email": "", 
+        "name": "Basque EuroWordNet-lemon lexicon (3.0)"
+    }, 
     "wiktionary-dbpedia-org": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
-        "edgecount": 5, 
+        "edgecount": 6, 
         "links": {
             "dbpedia": 25155.0
         }, 
@@ -1682,7 +1910,7 @@
     }, 
     "panlex": {
         "license": "open", 
-        "deadurls": 5, 
+        "deadurls": 0, 
         "edgecount": 2, 
         "links": {
             "dbpedia": 2536556.0, 
@@ -1694,7 +1922,7 @@
             "machine_translation"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=panlex", 
-        "aliveurls": 1, 
+        "aliveurls": 6, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "786205297", 
@@ -1729,7 +1957,7 @@
     }, 
     "dbpedia": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 3, 
+        "deadurls": 1, 
         "edgecount": 52, 
         "links": {
             "yago": 18100000.0, 
@@ -1759,7 +1987,7 @@
             "wikipedia"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=dbpedia", 
-        "aliveurls": 8, 
+        "aliveurls": 10, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "1200000000", 
@@ -2092,6 +2320,28 @@
         "email": "", 
         "name": "dbnary"
     }, 
+    "catalan-eurowordnet-lemon-lexicon-3-0": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 48090.0
+        }, 
+        "tags": [
+            "EuroWordNet", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo", 
+            "linguistics lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=catalan-eurowordnet-lemon-lexicon-3-0", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1841180", 
+        "email": "", 
+        "name": "Catalan EuroWordNet-lemon lexicon (3.0)"
+    }, 
     "glottolog": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
@@ -2132,7 +2382,7 @@
     "gemet": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 1, 
-        "edgecount": 5, 
+        "edgecount": 6, 
         "links": {
             "umthes": 3483.0, 
             "dbpedia": 3005.0, 
@@ -2308,6 +2558,29 @@
         "triples": "100000", 
         "email": "john@mccr.ae", 
         "name": "ietflang"
+    }, 
+    "brown-corpus-in-rdf-nif": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 1161028.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "nif", 
+            "rdf"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=brown-corpus-in-rdf-nif", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "14335131", 
+        "email": "bruemmer@informatik.uni-leipzig.de", 
+        "name": "Brown Corpus in RDF/NIF"
     }, 
     "apertium-rdf-eu-es": {
         "license": "open", 
@@ -2496,6 +2769,37 @@
         "triples": "6967", 
         "email": "ricardo.usbeck@googlemail.com", 
         "name": "Reuters-128 NIF NER Corpus"
+    }, 
+    "apertium-rdf-eu-en": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 19223.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Basque", 
+            "English", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eu-en", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "265466", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EU-EN"
     }, 
     "clld-wals": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -2957,6 +3261,57 @@
         "triples": "5546386", 
         "email": "glottolog@eva.mpg.de", 
         "name": "CLLD-GLOTTOLOG"
+    }, 
+    "apertium-rdf-eo-fr": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 52622.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Esperanto", 
+            "French", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-fr", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "726281", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-FR"
+    }, 
+    "multext-east": {
+        "license": "closed", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "gold": 15355.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=multext-east", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "127651", 
+        "email": "", 
+        "name": "Multext-East"
     }, 
     "masc": {
         "license": "open", 

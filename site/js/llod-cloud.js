@@ -91,7 +91,15 @@ name_to_type = {
     "masc-bn-nif": "corpus",
     "printed-book-auction-catalogues": "corpus",
     "environmental-applications-reference-thesaurus": "lexicon.generalKB",
-    "eurovoc-in-skos": "lexicon.generalKB"
+    "eurovoc-in-skos": "lexicon.generalKB",
+    "gemet-annotated": "lexicon.generalKB",
+    "apertium-rdf-eo-en": "lexicon.lexicon",
+    "apertium-rdf-es-an": "lexicon.lexicon",
+    "apertium-rdf-eo-fr": "lexicon.lexicon",
+    "apertium-rdf-eo-ca": "lexicon.lexicon",
+    "apertium-rdf-eu-en": "lexicon.lexicon",
+    "apertium-rdf-eo-es": "lexicon.lexicon",
+    "multext-east": "corpus"
 }
 
 
