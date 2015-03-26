@@ -510,9 +510,34 @@ function makeDiag(json) {
     }
     redrawLegend('type')
 
-        $('svg').attr('viewBox', '0 0 1417 778')
-        $('svg').attr('style', 'position: relative;')
-        $('svg').attr('xmlns', 'http://www.w3.org/2000/svg')
+    // add legend bottom stuff
+    var gnode = svg.append("g")
+        .attr("transform", "translate(0, 880)")
+
+    gnode.append("text")
+        .attr('style','font-size: 13px;')
+        /*
+        .attr("dx", "0em")
+        .attr("dy", "0.3em")
+        */
+        .text(function(d) { return 'The LLOD diagram is maintained'});
+    gnode.append("text")
+        .attr('style','font-size: 13px;')
+        .attr("dy", "1.5em")
+        .text(function(d) { return 'by the OKFN Working Group on Linguistics'});
+    gnode.append("text")
+        .attr('style','font-size: 13px;')
+        .attr("dy", "3em")
+        .text(function(d) { return 'and provided under the'});
+
+    gnode.append("text")
+        .attr('style','font-size: 13px;')
+        .attr("dy", "4.5em")
+        .text(function(d) { return ' Creative Commons Attribution 3.0 Unported (CC BY 3.0) license'});
+
+    $('svg').attr('viewBox', '0 0 1417 778')
+    $('svg').attr('style', 'position: relative;')
+    $('svg').attr('xmlns', 'http://www.w3.org/2000/svg')
 
 
 }
