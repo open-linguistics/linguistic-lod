@@ -1,5 +1,5 @@
 <?php 
-    $title = "LLOD Cloud (September 2013)";
+    $title = "LLOD Cloud (January 2013)";
     include 'header';
 ?>
    <!-- Page Title
@@ -10,7 +10,7 @@
 
          <div class="ten columns centered text-center">
             <h1>The Linguistic Linked Open Data Cloud<span>.</span></h1>
-            <h3>May 2014</h3>
+            <h3>January 2013</h3>
 
             <p></p>
          </div>

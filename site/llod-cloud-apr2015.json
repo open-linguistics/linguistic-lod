@@ -232,7 +232,7 @@
     "babelnet": {
         "license": "nc", 
         "deadurls": 1, 
-        "edgecount": 29, 
+        "edgecount": 28, 
         "links": {
             "lemonuby": 20241.0, 
             "lemonwordnet": 117653.0, 
@@ -641,25 +641,6 @@
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF FR-ES"
     }, 
-    "emn": {
-        "license": "http://www.opendefinition.org/licenses/cc-by", 
-        "deadurls": 1, 
-        "edgecount": 1, 
-        "links": {
-            "babelnet": 1322.0
-        }, 
-        "tags": [
-            "lexicon", 
-            "linguistic"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=emn", 
-        "aliveurls": 1, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "117115", 
-        "email": "john@mccr.ae", 
-        "name": "EMN"
-    }, 
     "wikilinks-rdf-nif": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 1, 
@@ -1055,7 +1036,7 @@
     }, 
     "open-data-thesaurus": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 1, 
         "links": {
             "dbpedia": 50.0
@@ -1074,7 +1055,7 @@
             "thesaurus"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=open-data-thesaurus", 
-        "aliveurls": 4, 
+        "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "8000", 
@@ -1392,7 +1373,7 @@
     }, 
     "cornetto": {
         "license": "nc", 
-        "deadurls": 2, 
+        "deadurls": 0, 
         "edgecount": 2, 
         "links": {
             "vu-wordnet": 84473.0
@@ -1417,7 +1398,7 @@
             "wordnet"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=cornetto", 
-        "aliveurls": 1, 
+        "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "792747", 
@@ -1629,7 +1610,7 @@
     }, 
     "parole-simple-lexinfo-ontology-lexicons": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
-        "deadurls": 2, 
+        "deadurls": 0, 
         "edgecount": 1, 
         "links": {
             "lexinfo": 394.0
@@ -1644,7 +1625,7 @@
             "linguistics"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=parole-simple-lexinfo-ontology-lexicons", 
-        "aliveurls": 3, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "10279", 
@@ -1850,7 +1831,7 @@
     }, 
     "wiktionary-dbpedia-org": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 1, 
+        "deadurls": 0, 
         "edgecount": 6, 
         "links": {
             "dbpedia": 25155.0
@@ -1860,7 +1841,7 @@
             "linguistics"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=wiktionary-dbpedia-org", 
-        "aliveurls": 6, 
+        "aliveurls": 7, 
         "formats": 0, 
         "rdf_owl": 0, 
         "email": "hellmann@informatik.uni-leipzig.de", 
@@ -1895,6 +1876,38 @@
         "triples": "349021", 
         "email": "", 
         "name": "Linked Old Germanic Dictionaries"
+    }, 
+    "vu-wordnet": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 3, 
+        "edgecount": 6, 
+        "links": {
+            "cornetto": 84473.0, 
+            "lexvo": 117659.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "deref-vocab", 
+            "language", 
+            "linguistics", 
+            "linkeddata", 
+            "lod", 
+            "no-license-metadata", 
+            "no-provenance-metadata", 
+            "no-vocab-mappings", 
+            "published-by-third-party", 
+            "rdf", 
+            "thesaurus", 
+            "vu", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=vu-wordnet", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "4573749", 
+        "email": "Jacco.van.Ossenbruggen@cwi.nl", 
+        "name": "WordNet 3.0 (VU Amsterdam)"
     }, 
     "clld-wold": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -1967,7 +1980,7 @@
     }, 
     "dbpedia": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 2, 
+        "deadurls": 1, 
         "edgecount": 51, 
         "links": {
             "yago": 18100000.0, 
@@ -1997,7 +2010,7 @@
             "wikipedia"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=dbpedia", 
-        "aliveurls": 9, 
+        "aliveurls": 10, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "1200000000", 
@@ -2026,6 +2039,28 @@
         "email": "frank_seifart@eva.mpg.de", 
         "name": "CLLD-afbo"
     }, 
+    "metashare": {
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "dbpedia": 227.0
+        }, 
+        "tags": [
+            "NLP", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "lrec-2014", 
+            "metadata"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=metashare", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8334", 
+        "email": "", 
+        "name": "MetaShare metadata model"
+    }, 
     "alpino-rdf": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 1, 
@@ -2047,7 +2082,7 @@
     }, 
     "socialsemweb-thesaurus": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 1, 
         "links": {
             "dbpedia": 300.0
@@ -2068,7 +2103,7 @@
             "usergeneratedcontent"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=socialsemweb-thesaurus", 
-        "aliveurls": 5, 
+        "aliveurls": 4, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "20000", 

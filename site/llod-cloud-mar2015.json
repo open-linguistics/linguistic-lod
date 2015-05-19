@@ -1,8 +1,21 @@
 {
+    "dbpedia-ko": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 2, 
+        "links": {}, 
+        "tags": [], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-ko", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "email": "", 
+        "name": "DBpedia in Korean"
+    }, 
     "dbpedia-cs": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {}, 
         "tags": [], 
         "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-cs", 
@@ -33,10 +46,9 @@
     "apertium-rdf-eo-en": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 43289.0, 
-            "babelnet": 7585.0
+            "lexinfo": 43289.0
         }, 
         "tags": [
             "Apertium", 
@@ -109,10 +121,9 @@
     "apertium-rdf-eo-es": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 29723.0, 
-            "babelnet": 6912.0
+            "lexinfo": 29723.0
         }, 
         "tags": [
             "Apertium", 
@@ -200,10 +211,9 @@
     "apertium-rdf-en-gl": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 32144.0, 
-            "babelnet": 8308.0
+            "lexinfo": 32144.0
         }, 
         "tags": [
             "Apertium", 
@@ -232,7 +242,7 @@
     "babelnet": {
         "license": "nc", 
         "deadurls": 1, 
-        "edgecount": 29, 
+        "edgecount": 5, 
         "links": {
             "lemonuby": 20241.0, 
             "lemonwordnet": 117653.0, 
@@ -261,10 +271,9 @@
     "apertium-rdf-oc-ca": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 26643.0, 
-            "babelnet": 3016.0
+            "lexinfo": 26643.0
         }, 
         "tags": [
             "Apertium", 
@@ -464,10 +473,9 @@
     "apertium-rdf-ca-it": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 14592.0, 
-            "babelnet": 14212.0
+            "lexinfo": 14592.0
         }, 
         "tags": [
             "Apertium", 
@@ -492,6 +500,48 @@
         "triples": "180851", 
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF CA-IT"
+    }, 
+    "dbpedia-ja": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 12, 
+        "links": {
+            "dbpedia-ko": 148988.0, 
+            "dbpedia-it": 218736.0, 
+            "dbpedia-cs": 101868.0, 
+            "dbpedia-de": 245530.0, 
+            "dbpedia-es": 210754.0, 
+            "dbpedia": 421893.0, 
+            "dbpedia-ru": 210254.0, 
+            "dbpedia-fr": 267194.0, 
+            "dbpedia-pt": 190044.0
+        }, 
+        "tags": [
+            "access-api", 
+            "access-bulk", 
+            "access-www", 
+            "crossdomain", 
+            "format-foaf", 
+            "format-geo", 
+            "format-owl", 
+            "format-rdf", 
+            "format-rdfs", 
+            "japanese", 
+            "license-metadata", 
+            "lod", 
+            "no-proprietary-vocab", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "rdf", 
+            "wikipedia"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-ja", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "70790371", 
+        "email": "", 
+        "name": "DBpedia in Japanese"
     }, 
     "fiesta": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -520,7 +570,7 @@
     }, 
     "sentiws": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 2, 
         "links": {
             "wiktionary-dbpedia-org": 4233.0, 
@@ -532,7 +582,7 @@
             "lod"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=sentiws", 
-        "aliveurls": 5, 
+        "aliveurls": 4, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "30339", 
@@ -542,10 +592,9 @@
     "apertium-rdf-pt-gl": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 18944.0, 
-            "babelnet": 4398.0
+            "lexinfo": 18944.0
         }, 
         "tags": [
             "Apertium", 
@@ -612,10 +661,9 @@
     "apertium-rdf-fr-es": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 40121.0, 
-            "babelnet": 29144.0
+            "lexinfo": 40121.0
         }, 
         "tags": [
             "Apertium", 
@@ -640,25 +688,6 @@
         "triples": "495614", 
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF FR-ES"
-    }, 
-    "emn": {
-        "license": "http://www.opendefinition.org/licenses/cc-by", 
-        "deadurls": 1, 
-        "edgecount": 1, 
-        "links": {
-            "babelnet": 1322.0
-        }, 
-        "tags": [
-            "lexicon", 
-            "linguistic"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=emn", 
-        "aliveurls": 1, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "117115", 
-        "email": "john@mccr.ae", 
-        "name": "EMN"
     }, 
     "wikilinks-rdf-nif": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -734,10 +763,9 @@
     "apertium-rdf-eo-ca": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 32378.0, 
-            "babelnet": 7036.0
+            "lexinfo": 32378.0
         }, 
         "tags": [
             "Apertium", 
@@ -765,7 +793,7 @@
     }, 
     "semanticquran": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 2, 
         "links": {
             "wiktionary": 18655.0, 
@@ -779,7 +807,7 @@
             "lod"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=semanticquran", 
-        "aliveurls": 6, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "15741399", 
@@ -789,10 +817,9 @@
     "apertium-rdf-es-an": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 5840.0, 
-            "babelnet": 86.0
+            "lexinfo": 5840.0
         }, 
         "tags": [
             "Apertium", 
@@ -821,12 +848,13 @@
     "dbpedia-es": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 1, 
-        "edgecount": 8, 
+        "edgecount": 10, 
         "links": {
             "dbpedia-ko": 169592.0, 
             "dbpedia-it": 457626.0, 
             "dbpedia-cs": 161377.0, 
             "dbpedia-de": 425511.0, 
+            "dbpedia-ja": 257732.0, 
             "dbpedia-nl": 429827.0, 
             "dbpedia": 837609.0, 
             "dbpedia-fr": 538425.0, 
@@ -847,29 +875,6 @@
         "triples": "169101647", 
         "email": "mariano.rico@fi.upm.es", 
         "name": "DBpedia in Spanish"
-    }, 
-    "eurosentiment": {
-        "license": "http://www.opendefinition.org/licenses/gfdl", 
-        "deadurls": 1, 
-        "edgecount": 1, 
-        "links": {
-            "lexinfo": 50
-        }, 
-        "tags": [
-            "ldl-2014", 
-            "lexicon", 
-            "linguistic", 
-            "llod", 
-            "lod", 
-            "sentiment"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=eurosentiment", 
-        "aliveurls": 33, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "975566", 
-        "email": "", 
-        "name": "EuroSentiment"
     }, 
     "printed-book-auction-catalogues": {
         "license": "http://www.opendefinition.org/licenses/odc-pddl", 
@@ -907,28 +912,6 @@
         "triples": "55214", 
         "email": "keithalexander@keithalexander.co.uk", 
         "name": "English Language Books listed in Printed Book Auction Catalogues from 17th Century Holland"
-    }, 
-    "xwn": {
-        "license": "open", 
-        "deadurls": 0, 
-        "edgecount": 1, 
-        "links": {
-            "wordnet-rdf": 1715884.0
-        }, 
-        "tags": [
-            "lexicon", 
-            "llod", 
-            "lod", 
-            "multilingual", 
-            "wordnet"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=xwn", 
-        "aliveurls": 3, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "10145232", 
-        "email": "", 
-        "name": "Open Multilingual Wordnet"
     }, 
     "clld-apics": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -1051,11 +1034,11 @@
         "rdf_owl": 0, 
         "triples": "21000", 
         "email": "", 
-        "name": "MLSA - A Multi-layered Reference Corpus for German Sentiment Analysis"
+        "name": " MLSA - A Multi-layered Reference Corpus for German Sentiment Analysis"
     }, 
     "open-data-thesaurus": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 1, 
         "links": {
             "dbpedia": 50.0
@@ -1074,7 +1057,7 @@
             "thesaurus"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=open-data-thesaurus", 
-        "aliveurls": 4, 
+        "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "8000", 
@@ -1112,7 +1095,7 @@
             "void-sparql-endpoint"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=gesis-thesoz", 
-        "aliveurls": 7, 
+        "aliveurls": 6, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "438901", 
@@ -1122,8 +1105,9 @@
     "lodac-bdls": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {
+            "dbpedia-ja": 7367.0, 
             "dbpedia": 18545.0
         }, 
         "tags": [
@@ -1244,7 +1228,7 @@
     "wordnet-rdf": {
         "license": "attribution", 
         "deadurls": 1, 
-        "edgecount": 3, 
+        "edgecount": 2, 
         "links": {
             "lemonuby": 475503.0, 
             "lexvo": 458907.0
@@ -1285,7 +1269,7 @@
     }, 
     "dbpedia-de": {
         "deadurls": 0, 
-        "edgecount": 2, 
+        "edgecount": 3, 
         "links": {}, 
         "tags": [], 
         "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-de", 
@@ -1294,29 +1278,6 @@
         "rdf_owl": 0, 
         "email": "", 
         "name": "DBpedia in German"
-    }, 
-    "lemonwiktionary": {
-        "license": "http://www.opendefinition.org/licenses/cc-by", 
-        "deadurls": 1, 
-        "edgecount": 1, 
-        "links": {
-            "wiktionary-dbpedia-org": 500000.0
-        }, 
-        "tags": [
-            "crossdomain", 
-            "lemon", 
-            "linguistics", 
-            "llod", 
-            "lod", 
-            "wiktionary"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=lemonwiktionary", 
-        "aliveurls": 8, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "5000000", 
-        "email": "", 
-        "name": "LemonWiktionary"
     }, 
     "opencyc": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -1392,7 +1353,7 @@
     }, 
     "cornetto": {
         "license": "nc", 
-        "deadurls": 2, 
+        "deadurls": 0, 
         "edgecount": 2, 
         "links": {
             "vu-wordnet": 84473.0
@@ -1417,7 +1378,7 @@
             "wordnet"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=cornetto", 
-        "aliveurls": 1, 
+        "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "792747", 
@@ -1475,7 +1436,7 @@
     }, 
     "agrovoc-skos": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
-        "deadurls": 3, 
+        "deadurls": 2, 
         "edgecount": 4, 
         "links": {}, 
         "tags": [
@@ -1497,11 +1458,11 @@
             "thesaurus"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=agrovoc-skos", 
-        "aliveurls": 31, 
+        "aliveurls": 32, 
         "formats": 0, 
         "rdf_owl": 0, 
         "email": "caterina.caracciolo@fao.org", 
-        "name": "AGROVOC"
+        "name": "AGROVOC "
     }, 
     "saldom-rdf": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -1528,10 +1489,9 @@
     "apertium-rdf-es-pt": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 22670.0, 
-            "babelnet": 19325.0
+            "lexinfo": 22670.0
         }, 
         "tags": [
             "Apertium", 
@@ -1629,7 +1589,7 @@
     }, 
     "parole-simple-lexinfo-ontology-lexicons": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
-        "deadurls": 2, 
+        "deadurls": 0, 
         "edgecount": 1, 
         "links": {
             "lexinfo": 394.0
@@ -1644,7 +1604,7 @@
             "linguistics"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=parole-simple-lexinfo-ontology-lexicons", 
-        "aliveurls": 3, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "10279", 
@@ -1687,10 +1647,9 @@
     "apertium-rdf-es-gl": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 16631.0, 
-            "babelnet": 4386.0
+            "lexinfo": 16631.0
         }, 
         "tags": [
             "Apertium", 
@@ -1795,10 +1754,9 @@
     "apertium-rdf-es-ca": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 59655.0, 
-            "babelnet": 35152.0
+            "lexinfo": 59655.0
         }, 
         "tags": [
             "Catalan", 
@@ -1850,7 +1808,7 @@
     }, 
     "wiktionary-dbpedia-org": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 1, 
+        "deadurls": 0, 
         "edgecount": 6, 
         "links": {
             "dbpedia": 25155.0
@@ -1860,7 +1818,7 @@
             "linguistics"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=wiktionary-dbpedia-org", 
-        "aliveurls": 6, 
+        "aliveurls": 7, 
         "formats": 0, 
         "rdf_owl": 0, 
         "email": "hellmann@informatik.uni-leipzig.de", 
@@ -1895,6 +1853,38 @@
         "triples": "349021", 
         "email": "", 
         "name": "Linked Old Germanic Dictionaries"
+    }, 
+    "vu-wordnet": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 3, 
+        "edgecount": 6, 
+        "links": {
+            "cornetto": 84473.0, 
+            "lexvo": 117659.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "deref-vocab", 
+            "language", 
+            "linguistics", 
+            "linkeddata", 
+            "lod", 
+            "no-license-metadata", 
+            "no-provenance-metadata", 
+            "no-vocab-mappings", 
+            "published-by-third-party", 
+            "rdf", 
+            "thesaurus", 
+            "vu", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=vu-wordnet", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "4573749", 
+        "email": "Jacco.van.Ossenbruggen@cwi.nl", 
+        "name": "WordNet 3.0 (VU Amsterdam)"
     }, 
     "clld-wold": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -1967,8 +1957,8 @@
     }, 
     "dbpedia": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 2, 
-        "edgecount": 51, 
+        "deadurls": 1, 
+        "edgecount": 52, 
         "links": {
             "yago": 18100000.0, 
             "opencyc": 20362.0
@@ -1997,7 +1987,7 @@
             "wikipedia"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=dbpedia", 
-        "aliveurls": 9, 
+        "aliveurls": 10, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "1200000000", 
@@ -2026,6 +2016,28 @@
         "email": "frank_seifart@eva.mpg.de", 
         "name": "CLLD-afbo"
     }, 
+    "metashare": {
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "dbpedia": 227.0
+        }, 
+        "tags": [
+            "NLP", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "lrec-2014", 
+            "metadata"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=metashare", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8334", 
+        "email": "", 
+        "name": "MetaShare metadata model"
+    }, 
     "alpino-rdf": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 1, 
@@ -2047,7 +2059,7 @@
     }, 
     "socialsemweb-thesaurus": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 1, 
         "links": {
             "dbpedia": 300.0
@@ -2068,7 +2080,7 @@
             "usergeneratedcontent"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=socialsemweb-thesaurus", 
-        "aliveurls": 5, 
+        "aliveurls": 4, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "20000", 
@@ -2078,10 +2090,9 @@
     "apertium-rdf-en-ca": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 61337.0, 
-            "babelnet": 30245.0
+            "lexinfo": 61337.0
         }, 
         "tags": [
             "Catalan", 
@@ -2111,10 +2122,9 @@
     "apertium-rdf-pt-ca": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 13146.0, 
-            "babelnet": 14921.0
+            "lexinfo": 13146.0
         }, 
         "tags": [
             "Apertium", 
@@ -2142,11 +2152,12 @@
     "dbpedia-fr": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
-        "edgecount": 5, 
+        "edgecount": 7, 
         "links": {
             "dbpedia-nl": 402443.0, 
             "dbpedia-it": 474524.0, 
-            "dbpedia": 854635.0
+            "dbpedia": 854635.0, 
+            "dbpedia-ja": 224710.0
         }, 
         "tags": [
             "crossdomain", 
@@ -2333,7 +2344,7 @@
     }, 
     "glottolog": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 1, 
+        "deadurls": 0, 
         "edgecount": 1, 
         "links": {
             "lexvo": 7000.0
@@ -2361,7 +2372,7 @@
             "typology"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=glottolog", 
-        "aliveurls": 7, 
+        "aliveurls": 8, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "10000000", 
@@ -2500,10 +2511,9 @@
     "apertium-rdf-es-ro": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 32453.0, 
-            "babelnet": 11606.0
+            "lexinfo": 32453.0
         }, 
         "tags": [
             "Apertium", 
@@ -2575,10 +2585,9 @@
     "apertium-rdf-eu-es": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 20563.0, 
-            "babelnet": 9707.0
+            "lexinfo": 20563.0
         }, 
         "tags": [
             "Apertium", 
@@ -2660,7 +2669,7 @@
     }, 
     "ids": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 3, 
         "links": {
             "wiktionary-dbpedia-org": 1832.0, 
@@ -2676,7 +2685,7 @@
             "typology"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=ids", 
-        "aliveurls": 5, 
+        "aliveurls": 4, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "2000000", 
@@ -2715,7 +2724,7 @@
     }, 
     "jrc-names": {
         "license": "closed", 
-        "deadurls": 0, 
+        "deadurls": 1, 
         "edgecount": 1, 
         "links": {
             "dbpedia": 124651.0
@@ -2728,7 +2737,7 @@
             "lod"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=jrc-names", 
-        "aliveurls": 6, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "1458828", 
@@ -2764,10 +2773,9 @@
     "apertium-rdf-eu-en": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 19223.0, 
-            "babelnet": 9332.0
+            "lexinfo": 19223.0
         }, 
         "tags": [
             "Apertium", 
@@ -2835,7 +2843,7 @@
     "dbpedia-it": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 3, 
         "links": {}, 
         "tags": [], 
         "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-it", 
@@ -2896,10 +2904,9 @@
     "apertium-rdf-en-es": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 45449.0, 
-            "babelnet": 31290.0
+            "lexinfo": 45449.0
         }, 
         "tags": [
             "English", 
@@ -2928,10 +2935,9 @@
     "apertium-rdf": {
         "license": "open", 
         "deadurls": 2, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 690650.0, 
-            "babelnet": 277089.0
+            "lexinfo": 173993.0
         }, 
         "tags": [
             "apertium", 
@@ -2951,7 +2957,7 @@
         "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
-        "triples": "8842516", 
+        "triples": "4219995", 
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF"
     }, 
@@ -2987,10 +2993,9 @@
     "apertium-rdf-oc-es": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 24505.0, 
-            "babelnet": 2932.0
+            "lexinfo": 24505.0
         }, 
         "tags": [
             "Apertium", 
@@ -3240,9 +3245,9 @@
         "deadurls": 0, 
         "edgecount": 7, 
         "links": {
-            "dbpedia": 7806.0, 
-            "gold": 24264.0, 
-            "lexvo": 7806.0
+            "dbpedia": 7684.0, 
+            "gold": 23860.0, 
+            "lexvo": 7684.0
         }, 
         "tags": [
             "linguistics", 
@@ -3253,17 +3258,16 @@
         "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
-        "triples": "7245265", 
+        "triples": "5546386", 
         "email": "glottolog@eva.mpg.de", 
         "name": "CLLD-GLOTTOLOG"
     }, 
     "apertium-rdf-eo-fr": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 52622.0, 
-            "babelnet": 11340.0
+            "lexinfo": 52622.0
         }, 
         "tags": [
             "Apertium", 
@@ -3336,10 +3340,9 @@
     "apertium-rdf-es-ast": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 66367.0, 
-            "babelnet": 2795.0
+            "lexinfo": 66367.0
         }, 
         "tags": [
             "Apertium", 
@@ -3391,10 +3394,9 @@
     "apertium-rdf-fr-ca": {
         "license": "open", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 1, 
         "links": {
-            "lexinfo": 12355.0, 
-            "babelnet": 13361.0
+            "lexinfo": 12355.0
         }, 
         "tags": [
             "Apertium", 
@@ -3423,7 +3425,7 @@
     "dbpedia-pt": {
         "license": "public-domain", 
         "deadurls": 0, 
-        "edgecount": 3, 
+        "edgecount": 4, 
         "links": {
             "dbpedia": 365839.0
         }, 

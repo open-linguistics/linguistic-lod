@@ -201,6 +201,7 @@ and shows the current status of the linguistic linked open data cloud.</p>
                     <h1>Previous versions</h1>
 
                     <ul class="square">
+                        <li><a href="llod-cloud-apr2015">April 2015</a></li>
                         <li><a href="llod-cloud-mar2015">March 2015</a></li>
                         <li><a href="llod-cloud-nov2014">November 2014</a></li>
                         <li><a href="llod-cloud-may2014">May 2014</a></li>

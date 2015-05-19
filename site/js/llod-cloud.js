@@ -169,7 +169,7 @@ function bubbleType(node) {
 
     if("tags" in node) {
         for(i in node["tags"]) {
-            name_plus_tags = name_plus_tags+" \""+i+"\"";
+            name_plus_tags = name_plus_tags+" \""+ node["tags"][i] +"\"";
         }
     }
     name_plus_tags = name_plus_tags+" ]";
@@ -252,7 +252,8 @@ function makeDiag(json) {
                 "key": key,
                 "size": json[key]["triples"],
                 "license": license,
-                "url": "http://linghub.lider-project.eu/datahub/" + key
+                "url": "http://linghub.lider-project.eu/datahub/" + key,
+                "tags": json[key]["tags"]
             });
         } else {
             nodes.push({
@@ -260,7 +261,8 @@ function makeDiag(json) {
                 "lines": breakText(json[key]["name"]).length,
                 "license": license,
                 "url": "http://linghub.lider-project.eu/datahub/" + key,
-                "key": key
+                "key": key,
+                "tags": json[key]["tags"]
             });
         }
         node_names.push(key);
