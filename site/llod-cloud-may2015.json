@@ -1,17 +1,4 @@
 {
-    "dbpedia-ko": {
-        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 0, 
-        "edgecount": 1, 
-        "links": {}, 
-        "tags": [], 
-        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-ko", 
-        "aliveurls": 1, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "email": "", 
-        "name": "DBpedia in Korean"
-    }, 
     "dbpedia-cs": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
@@ -100,7 +87,7 @@
     "lexinfo": {
         "license": "public-domain", 
         "deadurls": 0, 
-        "edgecount": 35, 
+        "edgecount": 36, 
         "links": {
             "isocat": 359.0
         }, 
@@ -151,6 +138,65 @@
         "email": "jgracia@fi.upm.es", 
         "name": "Apertium RDF EO-ES"
     }, 
+    "bible-ontology": {
+        "license": "http://www.opendefinition.org/licenses/gfdl", 
+        "deadurls": 6, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 371.0
+        }, 
+        "tags": [
+            "bible", 
+            "deref-vocab", 
+            "developed_in_korea", 
+            "format-dbpedia", 
+            "format-dc", 
+            "format-foaf", 
+            "format-frbr", 
+            "format-skos", 
+            "holy-bible", 
+            "linked-data", 
+            "llod", 
+            "lod", 
+            "no-vocab-mappings", 
+            "ontology", 
+            "publications", 
+            "published-by-third-party", 
+            "religion", 
+            "schemata"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=bible-ontology", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "10618", 
+        "email": "capsuleboy@topquadrant.co.kr", 
+        "name": "Bible Ontology"
+    }, 
+    "lemonwordnet": {
+        "license": "attribution", 
+        "deadurls": 6, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 178809.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "lemon", 
+            "linguistic", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=lemonwordnet", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1493380", 
+        "email": "", 
+        "name": "LemonWordNet"
+    }, 
     "apertium-rdf-en-gl": {
         "license": "open", 
         "deadurls": 1, 
@@ -186,11 +232,12 @@
     "babelnet": {
         "license": "nc", 
         "deadurls": 1, 
-        "edgecount": 28, 
+        "edgecount": 29, 
         "links": {
             "lemonuby": 20241.0, 
-            "lexinfo": 68811033.0, 
-            "dbpedia": 27585374.0
+            "lemonwordnet": 117653.0, 
+            "dbpedia": 27585374.0, 
+            "lexinfo": 68811033.0
         }, 
         "tags": [
             "access-web", 
@@ -245,8 +292,8 @@
     }, 
     "simple": {
         "license": "http://www.opendefinition.org/licenses/odc-by", 
-        "deadurls": 1, 
-        "edgecount": 2, 
+        "deadurls": 9, 
+        "edgecount": 1, 
         "links": {
             "lexinfo": 31449.0
         }, 
@@ -258,7 +305,7 @@
             "lod"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=simple", 
-        "aliveurls": 11, 
+        "aliveurls": 7, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "372294", 
@@ -485,7 +532,7 @@
             "lod"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=sentiws", 
-        "aliveurls": 4, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "30339", 
@@ -732,7 +779,7 @@
             "lod"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=semanticquran", 
-        "aliveurls": 5, 
+        "aliveurls": 6, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "15741399", 
@@ -935,6 +982,27 @@
         "triples": "4175", 
         "email": "", 
         "name": "OLiA Discourse"
+    }, 
+    "galician-eurowordnet-lemon-lexicon-3-0": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 23399.0
+        }, 
+        "tags": [
+            "EuroWordNet", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=galician-eurowordnet-lemon-lexicon-3-0", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "734979", 
+        "email": "", 
+        "name": "Galician EuroWordNet-lemon lexicon (3.0)"
     }, 
     "ontos-news-portal": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -1324,7 +1392,7 @@
     }, 
     "cornetto": {
         "license": "nc", 
-        "deadurls": 0, 
+        "deadurls": 2, 
         "edgecount": 2, 
         "links": {
             "vu-wordnet": 84473.0
@@ -1349,7 +1417,7 @@
             "wordnet"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=cornetto", 
-        "aliveurls": 3, 
+        "aliveurls": 1, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "792747", 
@@ -1407,7 +1475,7 @@
     }, 
     "agrovoc-skos": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
-        "deadurls": 2, 
+        "deadurls": 3, 
         "edgecount": 4, 
         "links": {}, 
         "tags": [
@@ -1429,7 +1497,7 @@
             "thesaurus"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=agrovoc-skos", 
-        "aliveurls": 32, 
+        "aliveurls": 31, 
         "formats": 0, 
         "rdf_owl": 0, 
         "email": "caterina.caracciolo@fao.org", 
@@ -1585,7 +1653,7 @@
     }, 
     "lingvoj": {
         "license": "open", 
-        "deadurls": 0, 
+        "deadurls": 4, 
         "edgecount": 5, 
         "links": {
             "dbpedia": 215.0, 
@@ -1609,7 +1677,7 @@
             "rdf"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=lingvoj", 
-        "aliveurls": 6, 
+        "aliveurls": 2, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "22442", 
@@ -1792,7 +1860,7 @@
             "linguistics"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=wiktionary-dbpedia-org", 
-        "aliveurls": 5, 
+        "aliveurls": 6, 
         "formats": 0, 
         "rdf_owl": 0, 
         "email": "hellmann@informatik.uni-leipzig.de", 
@@ -1827,38 +1895,6 @@
         "triples": "349021", 
         "email": "", 
         "name": "Linked Old Germanic Dictionaries"
-    }, 
-    "vu-wordnet": {
-        "license": "http://www.opendefinition.org/licenses/cc-by", 
-        "deadurls": 1, 
-        "edgecount": 6, 
-        "links": {
-            "cornetto": 84473.0, 
-            "lexvo": 117659.0
-        }, 
-        "tags": [
-            "crossdomain", 
-            "deref-vocab", 
-            "language", 
-            "linguistics", 
-            "linkeddata", 
-            "lod", 
-            "no-license-metadata", 
-            "no-provenance-metadata", 
-            "no-vocab-mappings", 
-            "published-by-third-party", 
-            "rdf", 
-            "thesaurus", 
-            "vu", 
-            "wordnet"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=vu-wordnet", 
-        "aliveurls": 5, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "4573749", 
-        "email": "Jacco.van.Ossenbruggen@cwi.nl", 
-        "name": "WordNet 3.0 (VU Amsterdam)"
     }, 
     "clld-wold": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -2105,7 +2141,7 @@
     }, 
     "dbpedia-fr": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 2, 
+        "deadurls": 0, 
         "edgecount": 5, 
         "links": {
             "dbpedia-nl": 402443.0, 
@@ -2128,7 +2164,7 @@
             "wikipedia"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-fr", 
-        "aliveurls": 5, 
+        "aliveurls": 9, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "131000000", 
@@ -2357,7 +2393,7 @@
             "thesaurus"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=gemet", 
-        "aliveurls": 4, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "20229105", 
@@ -2640,7 +2676,7 @@
             "typology"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=ids", 
-        "aliveurls": 4, 
+        "aliveurls": 5, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "2000000", 
@@ -3124,29 +3160,6 @@
         "triples": "2600000", 
         "email": "sean.gillies@nyu.edu", 
         "name": "Pleiades"
-    }, 
-    "iwn": {
-        "license": "http://www.opendefinition.org/licenses/odc-by", 
-        "deadurls": 1, 
-        "edgecount": 1, 
-        "links": {
-            "simple": 19896.0
-        }, 
-        "tags": [
-            "Linguistic Dataset LOD RDF", 
-            "linguistic", 
-            "llod", 
-            "lod", 
-            "rdf", 
-            "wordnet"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=iwn", 
-        "aliveurls": 3, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "515816", 
-        "email": "roberto.bartolini@ilc.cnr.it", 
-        "name": "IWN"
     }, 
     "clld-ewave": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
