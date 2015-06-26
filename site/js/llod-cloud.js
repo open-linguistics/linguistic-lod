@@ -537,6 +537,12 @@ function makeDiag(json) {
         .attr("dy", "4.5em")
         .text(function(d) { return ' Creative Commons Attribution 3.0 Unported (CC BY 3.0) license'});
 
+    svg.append("image")
+        .attr("width", "88")
+        .attr("height", "31")
+        .attr("xlink:href", "http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg")
+        .attr("transform", "translate(1020, 910)"); // Magic numbers that work... I hope
+
     $('svg').attr('viewBox', '0 0 1417 778')
     $('svg').attr('style', 'position: relative;')
     $('svg').attr('xmlns', 'http://www.w3.org/2000/svg')
