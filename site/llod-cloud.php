@@ -201,7 +201,7 @@ and shows the current status of the linguistic linked open data cloud.</p>
                     <h1>Previous versions</h1>
 
                     <ul class="square">
-<?php import 'llod-cloud-versions.html'; ?>
+<?php include 'llod-cloud-versions.html'; ?>
                     </ul>
                     
                     </div>
