@@ -219,7 +219,7 @@ the <a href="https://creativecommons.org/">Creative Commons</a> licenses.</li>
             <div class="entry-header">
 
                <div class="permalink">
-                  <a href="http://www.w3.org/2015/09/bpmlod-reports/bilingual-dictionaries/"></a>
+                  <a href="http://www.w3.org/2015/09/bpmlod-reports/bilingual-dictionaries/"><i class="fa fa-link"></i></a>
                </div>
 
                <div class="ten columns entry-title pull-right">
