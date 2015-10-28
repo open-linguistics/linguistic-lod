@@ -211,6 +211,223 @@ the <a href="https://creativecommons.org/">Creative Commons</a> licenses.</li>
 
          </article> <!-- Entry End -->
 
+
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://www.w3.org/2015/09/bpmlod-reports/bilingual-dictionaries/"></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://www.w3.org/2015/09/bpmlod-reports/bilingual-dictionaries/">Guidelines for Linguistic Linked Data Generation: Bilingual Dictionaries</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  BPMLOD
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>
+                This document guides the process of creating a linked data (LD) 
+                version of a lexical resource, particularly a bilingual 
+                dictionary. It contains advice on the vocabularies selection, 
+                RDF generation process, and publication of the results. 
+               <a class="more-link" href="http://www.w3.org/2015/09/bpmlod-reports/bilingual-dictionaries/">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://www.w3.org/2015/09/bpmlod-reports/multilingual-dictionaries/"><i class="fa fa-link"></i></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://www.w3.org/2015/09/bpmlod-reports/multilingual-dictionaries/">Guidelines for Linguistic Linked Data Generation: Multilingual Dictionaries (BabelNet).</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  <!--<time datetime="2014-01-31" class="post-date" pubdate="">Jan 31, 2014</time>
+                  <span class="dauthor">By Sakura Haruno</span>-->
+                  BPMLOD
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>
+The process of creating a Linked Data (LD) version of a lexical resource, in particular BabelNet, is describe in these guidelines. These guidelines contain advice on the vocabularies selection, RDF generation process and publication of the results. This document describes the models used and the design decisions taken during the conversion of BabelNet into the well-known lemon representation. More in general, we will describe common patterns that naturally emerge when converting a lexical resource into RDF format.
+               <a class="more-link" href="http://www.w3.org/2015/09/bpmlod-reports/multilingual-dictionaries/">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://www.w3.org/2015/09/bpmlod-reports/multilingual-terminologies/"><i class="fa fa-link"></i></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://www.w3.org/2015/09/bpmlod-reports/multilingual-terminologies/">Guidelines for Linguistic Linked Data Generation: Multilingual Terminologies (TBX).</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  <!--<time datetime="2014-01-31" class="post-date" pubdate="">Jan 31, 2014</time>
+                  <span class="dauthor">By Sakura Haruno</span>-->
+                  BPMLOD
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>This document describes proposed best practices for transforming multilingual terminologies, particulary those available in TBX format, into a Linked Data version. The best practices are exemplified using the well-known IATE resource. The document describes the models and vocabularies to be used and describes the conversion using a running example.
+               <a class="more-link" href="http://www.w3.org/2015/09/bpmlod-reports/multilingual-terminologies/">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://bpmlod.github.io/report/nif-corpus/index.html"><i class="fa fa-link"></i></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://bpmlod.github.io/report/nif-corpus/index.html">Guidelines for Linked Data corpus creation using NIF.</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  <!--<time datetime="2014-01-31" class="post-date" pubdate="">Jan 31, 2014</time>
+                  <span class="dauthor">By Sakura Haruno</span>-->
+                  BPMLOD
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>This document describes best practices to follow for the generation of Linked Data text corpora, using the NLP Interchange Format (NIF). NIF is an RDF/OWL-based format that aims to achieve interoperability between NLP tools, language resources and annotations. It can be used to assign URIs to strings and annotate the resulting resources. The Brown corpus serves as example throughout these guidelines.
+               <a class="more-link" href="http://bpmlod.github.io/report/nif-corpus/index.html">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://bpmlod.github.io/report/NIF-based-NLP-WebServices/index.html"><i class="fa fa-link"></i></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://bpmlod.github.io/report/NIF-based-NLP-WebServices/index.html">Guidelines for developing NIF-based NLP services.</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  <!--<time datetime="2014-01-31" class="post-date" pubdate="">Jan 31, 2014</time>
+                  <span class="dauthor">By Sakura Haruno</span>-->
+                  BPMLOD
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>
+              This document describes best practices to follow for the implementation of RESTful NLP web services that rely on the NLP Interchange Format (NIF). „NIF is an RDF/OWL-based format that aims to achieve interoperability between NLP tools language resources and annotations.“ As a proof-of-concept, we have implemented NIF wrappers for the Stanford POS tagger and Stanford parser. 
+               <a class="more-link" href="http://bpmlod.github.io/report/NIF-based-NLP-WebServices/index.html">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://bpmlod.github.io/report/LLD-Exploitation/index.html"><i class="fa fa-link"></i></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://bpmlod.github.io/report/LLD-Exploitation/index.html">Guidelines for LLD exploitation.</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  <!--<time datetime="2014-01-31" class="post-date" pubdate="">Jan 31, 2014</time>
+                  <span class="dauthor">By Sakura Haruno</span>-->
+                  BPMLOD
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>This best practice describes how to exploit Linguistic Linked Data resources. The suggested steps for exploitation comprise: search and discovery of relevant resources, verifying the license of the dataset, navigating to the distribution of the data (download or SPARQL endpoint), extraction of the data that is relevant for a particular purpose or application.
+               <a class="more-link" href="http://bpmlod.github.io/report/LLD-Exploitation/index.html">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
+         <!-- Entry -->
+         <article class="row entry">
+
+            <div class="entry-header">
+
+               <div class="permalink">
+                  <a href="http://bpmlod.github.io/report/LLOD-aware-services/index.html"><i class="fa fa-link"></i></a>
+               </div>
+
+               <div class="ten columns entry-title pull-right">
+                  <h3><a href="http://bpmlod.github.io/report/LLOD-aware-services/index.html">LLOD aware services.</a></h3>
+               </div>
+
+               <div class="two columns post-meta end">
+                  <p>
+                  <!--<time datetime="2014-01-31" class="post-date" pubdate="">Jan 31, 2014</time>
+                  <span class="dauthor">By Sakura Haruno</span>-->
+                  BPMLOD
+                  </p>
+               </div>
+
+            </div>
+
+            <div class="ten columns offset-2 post-content">
+               <p>This document recommends best practices for building Linguistic Linked Open Data (LLOD) aware web services. LLOD denotes the representation of linguistic resources in accordance with linked data principles. These principles include that entities are to be identified by HTTP URIs providing RDF-based information about the entity including links to related entities. LLOD-aware services consume, process and produce such resources. LLOD-aware services are services that consume resources available as Linked Data as Input and output an RDF resource that can in turn be published as Linked Data.
+               <a class="more-link" href="http://bpmlod.github.io/report/LLOD-aware-services/index.html">Read More<i class="fa fa-arrow-circle-o-right"></i></a></p>
+            </div>
+
+         </article> <!-- Entry End -->
+
+
          <!-- Entry -->
          <article class="row entry">
 
