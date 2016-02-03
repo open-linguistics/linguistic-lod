@@ -1,5 +1,5 @@
 <?php 
-    $title = "LLOD Cloud (January 2016)";
+    $title = "LLOD Cloud (February 2016)";
     include 'header';
 ?>
    <!-- Page Title
@@ -10,7 +10,7 @@
 
          <div class="ten columns centered text-center">
             <h1>The Linguistic Linked Open Data Cloud<span>.</span></h1>
-            <h3>January 2016</h3>
+            <h3>February 2016</h3>
 
             <p></p>
          </div>
@@ -29,14 +29,14 @@
 
             <section>
 
-                <img src="images/llod-cloud-Jan2016.svg"/>
+                <img src="images/llod-cloud-Feb2016.svg"/>
 
             </section> <!-- section end -->
          <div class="four columns">
-            <h3><a href="llod-cloud-Feb2016.php">&lt;&lt; February 2016</a></h3>
+            <h3><a href="llod-cloud.php">&lt;&lt; Latest</a></h3>
          </div>
          <div class="four columns">
-            <h3 style="text-align:right;"><a href="llod-cloud-Dec2015.php">December 2015 &gt;&gt;</a></h3>
+            <h3 style="text-align:right;"><a href="llod-cloud-Jan2016.php">January 2016 &gt;&gt;</a></h3>
          </div>
 
 
