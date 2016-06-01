@@ -540,7 +540,7 @@ function makeDiag(json) {
     svg.append("image")
         .attr("width", "88")
         .attr("height", "31")
-        .attr("xlink:href", "http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg")
+        //.attr("xlink:href", "http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg")
         .attr("transform", "translate(1020, 910)"); // Magic numbers that work... I hope
 
     $('svg').attr('viewBox', '0 0 1417 778')
