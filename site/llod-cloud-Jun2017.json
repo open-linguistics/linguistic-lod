@@ -1,0 +1,3684 @@
+{
+    "galician-eurowordnet-lemon-lexicon-3-0": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 23399.0
+        }, 
+        "tags": [
+            "EuroWordNet", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=galician-eurowordnet-lemon-lexicon-3-0", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "734979", 
+        "email": "", 
+        "name": "Galician EuroWordNet-lemon lexicon (3.0)"
+    }, 
+    "gold": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 6, 
+        "links": {}, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "ontology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=gold", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "3000", 
+        "email": "", 
+        "name": "General Ontology of Linguistic Description"
+    }, 
+    "apertium-rdf-eo-en": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 43289.0, 
+            "babelnet": 7585.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "English", 
+            "Esperanto", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-en", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "617772", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-EN"
+    }, 
+    "pdev-lemon": {
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 2078.0
+        }, 
+        "tags": [
+            "ldl-2014", 
+            "lexical-resources", 
+            "lexicon", 
+            "linguistic", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=pdev-lemon", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "233372", 
+        "email": "", 
+        "name": "PDEV-Lemon"
+    }, 
+    "universal-dependencies-treebank-persian": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-persian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "151625", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Persian"
+    }, 
+    "universal-dependencies-treebank-dutch-lassysmall": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-dutch-lassysmall", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "98107", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Dutch-LassySmall"
+    }, 
+    "universal-dependencies-treebank-galician": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-galician", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "138852", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Galician"
+    }, 
+    "universal-dependencies-treebank-russian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-russian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "99389", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Russian"
+    }, 
+    "apertium-rdf-eo-es": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 29723.0, 
+            "babelnet": 6912.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Esperanto", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-es", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "380198", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-ES"
+    }, 
+    "universal-dependencies-treebank-english-esl": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-english-esl", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "97681", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank English-ESL"
+    }, 
+    "universal-dependencies-treebank-czech": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-czech", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1503732", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Czech"
+    }, 
+    "apertium-rdf-en-gl": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 32144.0, 
+            "babelnet": 8308.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "English", 
+            "Galician", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-en-gl", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "425117", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EN-GL"
+    }, 
+    "babelnet": {
+        "license": "nc", 
+        "deadurls": 3, 
+        "edgecount": 31, 
+        "links": {
+            "lemonuby": 22298.0, 
+            "lexinfo": 75326283.0, 
+            "wiktionary-dbpedia-org": 285912.0, 
+            "wordnet-rdf": 322519.0
+        }, 
+        "tags": [
+            "access-web", 
+            "format-rdf", 
+            "ldl-2014", 
+            "lemon", 
+            "lexical-resources", 
+            "lexico", 
+            "linguistics", 
+            "llod", 
+            "void-sparql-endpoint"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=babelnet", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1971744856", 
+        "email": "cecconi@di.uniroma1.it", 
+        "name": "BabelNet"
+    }, 
+    "apertium-rdf-oc-ca": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 26643.0, 
+            "babelnet": 3016.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Catalan", 
+            "Occitan", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-oc-ca", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "346346", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF OC-CA"
+    }, 
+    "simple": {
+        "license": "http://www.opendefinition.org/licenses/odc-by", 
+        "deadurls": 5, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 31449.0
+        }, 
+        "tags": [
+            "lexical-resource", 
+            "lexicon", 
+            "linguistic", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=simple", 
+        "aliveurls": 11, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "372294", 
+        "email": "monica.monachini@ilc.cnr.it", 
+        "name": "SIMPLE"
+    }, 
+    "eurovoc-in-skos": {
+        "license": "closed", 
+        "deadurls": 2, 
+        "edgecount": 2, 
+        "links": {}, 
+        "tags": [
+            "ctic", 
+            "europe", 
+            "eurovoc", 
+            "format-skos", 
+            "lld", 
+            "lodcloud-diagram-2014-08-30", 
+            "lodcloud.candidate", 
+            "lodcloud.unresolvable", 
+            "published-by-third-party", 
+            "skos", 
+            "sparql", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=eurovoc-in-skos", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "email": "", 
+        "name": "EUROVOC in SKOS"
+    }, 
+    "thist": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 2, 
+        "edgecount": 5, 
+        "links": {
+            "eurovoc-in-skos": 733.0, 
+            "agrovoc-skos": 1695.0, 
+            "environmental-applications-reference-thesaurus": 1440.0, 
+            "gemet": 792.0
+        }, 
+        "tags": [
+            "format-skos", 
+            "geographic", 
+            "license-metadata", 
+            "lld", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-proprietary-vocab", 
+            "no-vocab-mappings", 
+            "provenance-metadata", 
+            "published-by-third-party", 
+            "schemata", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=thist", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "396885", 
+        "email": "lustre@ge.imati.cnr.it", 
+        "name": "ThIST"
+    }, 
+    "isocat-metadata": {
+        "license": "nc", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "isocat": 65.0
+        }, 
+        "tags": [
+            "ISOcat", 
+            "linguistic", 
+            "llod", 
+            "lod", 
+            "metadata", 
+            "ontology", 
+            "terminology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=isocat-metadata", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "830", 
+        "email": "nalida@sfs.uni-tuebingen.de", 
+        "name": "ISOcat-metadata"
+    }, 
+    "universal-dependencies-treebank-latin-proiel": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-latin-proiel", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "165201", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Latin-PROIEL"
+    }, 
+    "saldo-rdf": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "isocat": 69.0
+        }, 
+        "tags": [
+            "lexicon", 
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=saldo-rdf", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "email": "dana.dannells@svenska.gu.se", 
+        "name": "SALDO-RDF"
+    }, 
+    "apertium-rdf-ca-it": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 14592.0, 
+            "babelnet": 14212.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Catalan", 
+            "Italian", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-ca-it", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "180851", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF CA-IT"
+    }, 
+    "geowordnet": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 5, 
+        "edgecount": 1, 
+        "links": {
+            "vu-wordnet": 2054873.0
+        }, 
+        "tags": [
+            "english", 
+            "format-dc", 
+            "format-rdf", 
+            "format-rdfs", 
+            "format-skos", 
+            "format-vu-wordnet", 
+            "format-w3c-wordnet", 
+            "format-wn20schema", 
+            "format-wordnet", 
+            "geographic", 
+            "geonames", 
+            "italian", 
+            "license-metadata", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "nlp", 
+            "no-deref-vocab", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=geowordnet", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "53390969", 
+        "email": "http://autayeu.com", 
+        "name": "GeoWordNet"
+    }, 
+    "universal-dependencies-treebank-catalan": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-catalan", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "530766", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Catalan"
+    }, 
+    "sentiws": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 4, 
+        "edgecount": 1, 
+        "links": {
+            "wiktionary-dbpedia-org": 4233.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=sentiws", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "30339", 
+        "email": "Sherif@informatik.uni-leipzig.de", 
+        "name": "SentimentWortschatz"
+    }, 
+    "apertium-rdf-pt-gl": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 18944.0, 
+            "babelnet": 4398.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Galician", 
+            "Portuguese", 
+            "bilingual", 
+            "dictionary", 
+            "general ontology of linguistic description", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-pt-gl", 
+        "aliveurls": 7, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "234065", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF PT-GL"
+    }, 
+    "zhishi-lemon": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 3, 
+        "links": {
+            "dbpedia-es": 50, 
+            "babelnet": 50, 
+            "zhishi-me": 50
+        }, 
+        "tags": [
+            "babelnet", 
+            "dbpedia", 
+            "lemon", 
+            "llod", 
+            "lod", 
+            "zhishi.me"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=zhishi-lemon", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "7,036,338", 
+        "email": "fantorm030@gmail.com", 
+        "name": "zhishi.lemon"
+    }, 
+    "universal-dependencies-treebank-tamil": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-tamil", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8635", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Tamil"
+    }, 
+    "bll-thesaurus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 262.0
+        }, 
+        "tags": [
+            "language_description", 
+            "linguistic", 
+            "linguistics", 
+            "llod", 
+            "ontology", 
+            "terminology", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=bll-thesaurus", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "email": "info@linguistik.de", 
+        "name": "Bibliography of Linguistic Literature (BLL) Thesaurus"
+    }, 
+    "universal-dependencies-treebank-ancient-greek-proiel": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-ancient-greek-proiel", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "206966", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Ancient_Greek-PROIEL"
+    }, 
+    "universal-dependencies-treebank-slovenian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-slovenian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "140418", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Slovenian"
+    }, 
+    "apertium-rdf-fr-es": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 40121.0, 
+            "babelnet": 29144.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "French", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-fr-es", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "495614", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF FR-ES"
+    }, 
+    "universal-dependencies-treebank-russian-syntagrus": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-russian-syntagrus", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1068483", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Russian-SynTagRus"
+    }, 
+    "emn": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "iate-rdf": 2033.0, 
+            "babelnet": 1322.0
+        }, 
+        "tags": [
+            "lexicon", 
+            "linguistic"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=emn", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "117115", 
+        "email": "john@mccr.ae", 
+        "name": "EMN"
+    }, 
+    "universal-dependencies-treebank-latvian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-latvian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "20798", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Latvian"
+    }, 
+    "olia": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 74, 
+        "links": {
+            "tds": 83.0, 
+            "isocat": 361.0, 
+            "gold": 264.0
+        }, 
+        "tags": [
+            "annotation", 
+            "corpus", 
+            "crossdomain", 
+            "language_description", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "nlp", 
+            "terminology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=olia", 
+        "aliveurls": 5, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "43775", 
+        "email": "", 
+        "name": "OLiA"
+    }, 
+    "apertium-rdf-eo-ca": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 32378.0, 
+            "babelnet": 7036.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Catalan", 
+            "Esperanto", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-ca", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "426301", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-CA"
+    }, 
+    "universal-dependencies-treebank-uyghur": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-uyghur", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "6442", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Uyghur"
+    }, 
+    "universal-dependencies-treebank-portuguese": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-portuguese", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "209977", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Portuguese"
+    }, 
+    "universal-dependencies-treebank-slovak": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-slovak", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "106043", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Slovak"
+    }, 
+    "masc-bn-nif": {
+        "license": "public-domain", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "babelnet": 286416.0
+        }, 
+        "tags": [
+            "annotation", 
+            "babelnet", 
+            "format-nif", 
+            "linguistic", 
+            "llod", 
+            "masc", 
+            "nif"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=masc-bn-nif", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "5620229", 
+        "email": "flati@di.uniroma1.it", 
+        "name": "MASC-BN-NIF"
+    }, 
+    "apertium-rdf-es-an": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 5840.0, 
+            "babelnet": 86.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Aragonese", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-es-an", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "71997", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF ES-AN"
+    }, 
+    "dbpedia-es": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "dbpedia-nl": 429827.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "linguistic", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-proprietary-vocab", 
+            "published-by-producer", 
+            "wikipedia"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-es", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "169101647", 
+        "email": "mariano.rico@fi.upm.es", 
+        "name": "DBpedia in Spanish"
+    }, 
+    "universal-dependencies-treebank-latin": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-latin", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "47303", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Latin"
+    }, 
+    "universal-dependencies-treebank-turkish": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-turkish", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "56418", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Turkish"
+    }, 
+    "universal-dependencies-treebank-romanian": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-romanian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "218516", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Romanian"
+    }, 
+    "universal-dependencies-treebank-croatian": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-croatian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "139023", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Croatian"
+    }, 
+    "xwn": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "wordnet-rdf": 1715884.0
+        }, 
+        "tags": [
+            "lexicon", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=xwn", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "10145232", 
+        "email": "", 
+        "name": "Open Multilingual Wordnet"
+    }, 
+    "universal-dependencies-treebank-coptic": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-coptic", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "5220", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Coptic"
+    }, 
+    "olia-discourse": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 81.0
+        }, 
+        "tags": [
+            "OLiA", 
+            "anaphora", 
+            "coherence relations", 
+            "coreference", 
+            "discourse", 
+            "discourse relations", 
+            "discourse structure", 
+            "information status", 
+            "information structure", 
+            "linguistic", 
+            "llod", 
+            "lod", 
+            "lrec-2014", 
+            "terminology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=olia-discourse", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "4175", 
+        "email": "", 
+        "name": "OLiA Discourse"
+    }, 
+    "universal-dependencies-treebank-basque": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-basque", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "121443", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Basque"
+    }, 
+    "universal-dependencies-treebank-polish": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-polish", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "83571", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Polish"
+    }, 
+    "mlsa": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "wiktionary-dbpedia-org": 1371.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "linguistics", 
+            "lod", 
+            "sentiment"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=mlsa", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "21000", 
+        "email": "", 
+        "name": "MLSA - A Multi-layered Reference Corpus for German Sentiment Analysis"
+    }, 
+    "universal-dependencies-treebank-spanish": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-spanish", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "423346", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Spanish"
+    }, 
+    "gesis-thesoz": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 5, 
+        "edgecount": 3, 
+        "links": {
+            "stw-thesaurus-for-economics": 5294.0, 
+            "agrovoc-skos": 846.0
+        }, 
+        "tags": [
+            "deref-vocab", 
+            "format-dc", 
+            "format-rdf", 
+            "format-skos", 
+            "format-skosxl", 
+            "germany", 
+            "library", 
+            "license-metadata", 
+            "linkeddata", 
+            "lld", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "provenance-metadata", 
+            "publications", 
+            "published-by-producer", 
+            "social", 
+            "socialsciences", 
+            "thesaurus", 
+            "vocab-mappings", 
+            "void-sparql-endpoint"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=gesis-thesoz", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "438901", 
+        "email": "benjamin.zapilko@gesis.org", 
+        "name": "TheSoz Thesaurus for the Social Sciences (GESIS)"
+    }, 
+    "universal-dependencies-treebank-vietnamese": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-vietnamese", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "43754", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Vietnamese"
+    }, 
+    "wordnet-rdf": {
+        "license": "attribution", 
+        "deadurls": 1, 
+        "edgecount": 3, 
+        "links": {
+            "lemonuby": 475503.0
+        }, 
+        "tags": [
+            "lexicon", 
+            "linguistics"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=wordnet-rdf", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8903374", 
+        "email": "john@mccr.ae", 
+        "name": "WordNet-RDF"
+    }, 
+    "lemonwiktionary": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "wiktionary-dbpedia-org": 500000.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "lemon", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "wiktionary"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=lemonwiktionary", 
+        "aliveurls": 8, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "5000000", 
+        "email": "", 
+        "name": "LemonWiktionary"
+    }, 
+    "universal-dependencies-treebank-hindi": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-hindi", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "351704", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Hindi"
+    }, 
+    "zhishi-me": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {}, 
+        "tags": [
+            "chinese", 
+            "crossdomain", 
+            "format-rdf", 
+            "llod", 
+            "lod", 
+            "sparql"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=zhishi-me", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "125000000", 
+        "email": "", 
+        "name": "Zhishi.me"
+    }, 
+    "universal-dependencies-treebank-slovenian-sst": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-slovenian-sst", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "29488", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Slovenian-SST"
+    }, 
+    "universal-dependencies-treebank-italian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-italian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "272913", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Italian"
+    }, 
+    "tds": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {}, 
+        "tags": [
+            "language_description", 
+            "linguistics", 
+            "llod", 
+            "ontology", 
+            "typological-database"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=tds", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "3135", 
+        "email": "tds.gw@uu.nl", 
+        "name": "TDS"
+    }, 
+    "swefn-rdf": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "isocat": 69.0
+        }, 
+        "tags": [
+            "lexical-resource", 
+            "linguistic", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=swefn-rdf", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "339385", 
+        "email": "dana.dannells@svenska.gu.se", 
+        "name": "SweFN-RDF"
+    }, 
+    "cornetto": {
+        "license": "nc", 
+        "deadurls": 2, 
+        "edgecount": 2, 
+        "links": {
+            "vu-wordnet": 84473.0
+        }, 
+        "tags": [
+            "broken_link", 
+            "cornetto", 
+            "crossdomain", 
+            "deref-vocab", 
+            "dutch", 
+            "format-rdf", 
+            "format-skos", 
+            "language", 
+            "linguistics", 
+            "linkeddata", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-license-metadata", 
+            "no-provenance-metadata", 
+            "no-vocab-mappings", 
+            "published-by-producer", 
+            "vu", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=cornetto", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "792747", 
+        "email": "jacco.van.ossenbruggen@cwi.nl", 
+        "name": "Cornetto1.2"
+    }, 
+    "de-gaap-ontology-lexicon": {
+        "license": "public-domain", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 43727.0
+        }, 
+        "tags": [
+            "lemon", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "ontology", 
+            "ontology-lexicon", 
+            "parse tree"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=de-gaap-ontology-lexicon", 
+        "aliveurls": 5, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "246522", 
+        "email": "", 
+        "name": "de-gaap-ontology-lexicon"
+    }, 
+    "greek-wordnet": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "vu-wordnet": 16718.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "linguistics lod", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=greek-wordnet", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "356595", 
+        "email": "okfngr@gmail.com", 
+        "name": "Greek Wordnet"
+    }, 
+    "agrovoc-skos": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 5, 
+        "edgecount": 5, 
+        "links": {}, 
+        "tags": [
+            "agriculture", 
+            "animals", 
+            "authorities", 
+            "deref-vocab", 
+            "fisheries-policy", 
+            "food", 
+            "forestry", 
+            "format-rdf", 
+            "format-rdfs", 
+            "lld", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "nutrition", 
+            "publications", 
+            "published-by-producer", 
+            "schemata", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=agrovoc-skos", 
+        "aliveurls": 31, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "email": "caterina.caracciolo@fao.org", 
+        "name": "AGROVOC"
+    }, 
+    "saldom-rdf": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "isocat": 69.0
+        }, 
+        "tags": [
+            "lexical-resource", 
+            "linguistic", 
+            "llod", 
+            "lod", 
+            "morphology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=saldom-rdf", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8349115", 
+        "email": "dana.dannells@svenska.gu.se", 
+        "name": "SALDOM-RDF"
+    }, 
+    "apertium-rdf-es-pt": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 22670.0, 
+            "babelnet": 19325.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Portuguese", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-es-pt", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "279245", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF ES-PT"
+    }, 
+    "universal-dependencies-treebank-spanish-ancora": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-spanish-ancora", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "547681", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Spanish-AnCora"
+    }, 
+    "rkb-explorer-wordnet": {
+        "license": "closed", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "lingvoj": 38.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "deref-vocab", 
+            "format-dc", 
+            "format-rdf", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-license-metadata", 
+            "no-vocab-mappings", 
+            "provenance-metadata", 
+            "published-by-third-party", 
+            "void-sparql-endpoint"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=rkb-explorer-wordnet", 
+        "aliveurls": 7, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "2727001", 
+        "email": "", 
+        "name": "WordNet (RKBExplorer)"
+    }, 
+    "universal-dependencies-treebank-ancient-greek": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-ancient-greek", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "244993", 
+        "email": "acoli-intern@dlist.server.uni-frankfurt.de", 
+        "name": "Universal Dependencies Treebank Ancient_Greek"
+    }, 
+    "universal-dependencies-treebank-japanese-ktc": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-japanese-ktc", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "267631", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Japanese-KTC"
+    }, 
+    "parole-simple-lexinfo-ontology-lexicons": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 4, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 394.0
+        }, 
+        "tags": [
+            "PAROLE", 
+            "SIMPLE", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo", 
+            "linguistic lod", 
+            "linguistics"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=parole-simple-lexinfo-ontology-lexicons", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "10279", 
+        "email": "", 
+        "name": "Parole/Simple 'lexinfo' Ontology & lexicons"
+    }, 
+    "universal-dependencies-treebank-galician-treegal": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-galician-treegal", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "24219", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Galician-TreeGal"
+    }, 
+    "apertium-rdf-es-gl": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 16631.0, 
+            "babelnet": 4386.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Galician", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-es-gl", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "206284", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF ES-GL"
+    }, 
+    "gemet-annotated": {
+        "license": "http://www.opendefinition.org/licenses/odc-odbl", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "gemet": 103569.0
+        }, 
+        "tags": [
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=gemet-annotated", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "231297", 
+        "email": "", 
+        "name": "gemet-annotated"
+    }, 
+    "universal-dependencies-treebank-arabic": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-arabic", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "242056", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Arabic"
+    }, 
+    "universal-dependencies-treebank-danish": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-danish", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "100733", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Danish"
+    }, 
+    "universal-dependencies-treebank-portuguese-bosque": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 2, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-portuguese-bosque", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "227653", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Portuguese-Bosque"
+    }, 
+    "apertium-rdf-es-ca": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 59655.0, 
+            "babelnet": 35152.0
+        }, 
+        "tags": [
+            "Catalan", 
+            "Catal\u00e1n", 
+            "Espa\u00f1ol", 
+            "Spanish", 
+            "apertium", 
+            "bilingual", 
+            "dictionary", 
+            "es-ca", 
+            "lemon", 
+            "lexicon", 
+            "linguistic LOD", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-es-ca", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "730501", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF ES-CA"
+    }, 
+    "basque-eurowordnet-lemon-lexicon-3-0": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 27222.0
+        }, 
+        "tags": [
+            "EuroWordNet", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=basque-eurowordnet-lemon-lexicon-3-0", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1215583", 
+        "email": "", 
+        "name": "Basque EuroWordNet-lemon lexicon (3.0)"
+    }, 
+    "wiktionary-dbpedia-org": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 6, 
+        "links": {}, 
+        "tags": [
+            "crossdomain", 
+            "linguistics", 
+            "lodcloud-diagram-2014-08-30"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=wiktionary-dbpedia-org", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "email": "hellmann@informatik.uni-leipzig.de", 
+        "name": "wiktionary.dbpedia.org"
+    }, 
+    "germlex": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lemonuby": 773.0
+        }, 
+        "tags": [
+            "Dutch", 
+            "English", 
+            "German", 
+            "Gothic", 
+            "etymology", 
+            "germanic", 
+            "ldl-2014", 
+            "lexical-resources", 
+            "lexicon", 
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=germlex", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "349021", 
+        "email": "", 
+        "name": "Linked Old Germanic Dictionaries"
+    }, 
+    "vu-wordnet": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 4, 
+        "edgecount": 5, 
+        "links": {
+            "cornetto": 84473.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "deref-vocab", 
+            "language", 
+            "linguistics", 
+            "linkeddata", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-license-metadata", 
+            "no-provenance-metadata", 
+            "no-vocab-mappings", 
+            "published-by-third-party", 
+            "rdf", 
+            "thesaurus", 
+            "vu", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=vu-wordnet", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "4573749", 
+        "email": "Jacco.van.Ossenbruggen@cwi.nl", 
+        "name": "WordNet 3.0 (VU Amsterdam)"
+    }, 
+    "clld-wold": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "clld-glottolog": 223.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clld-wold", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1764648", 
+        "email": "contact.wold@livingreviews.org", 
+        "name": "CLLD-WOLD"
+    }, 
+    "universal-dependencies-treebank-indonesian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-indonesian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "121923", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Indonesian"
+    }, 
+    "universal-dependencies-treebank-kazakh": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-kazakh", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "6023", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Kazakh"
+    }, 
+    "universal-dependencies-treebank-estonian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-estonian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "234351", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Estonian"
+    }, 
+    "clld-afbo": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "clld-glottolog": 157.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clld-afbo", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "12453", 
+        "email": "frank_seifart@eva.mpg.de", 
+        "name": "CLLD-afbo"
+    }, 
+    "universal-dependencies-treebank-irish": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-irish", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "23686", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Irish"
+    }, 
+    "universal-dependencies-treebank-swedish": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-swedish", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "96819", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Swedish"
+    }, 
+    "universal-dependencies-treebank-old-church-slavonic": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-old-church-slavonic", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "57507", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Old_Church_Slavonic"
+    }, 
+    "apertium-rdf-en-ca": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 61337.0, 
+            "babelnet": 30245.0
+        }, 
+        "tags": [
+            "Catalan", 
+            "English", 
+            "apertium", 
+            "bilingual", 
+            "dictionary", 
+            "en-ca", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-en-ca", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "759601", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EN-CA"
+    }, 
+    "apertium-rdf-pt-ca": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 13146.0, 
+            "babelnet": 14921.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Catalan", 
+            "Portuguese", 
+            "bilingual", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "machine_translation", 
+            "multilingual", 
+            "rdf"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-pt-ca", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "163149", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF PT-CA"
+    }, 
+    "copyrighttermbank": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "iate-rdf": 92.0
+        }, 
+        "tags": [
+            "lemon", 
+            "lexicon", 
+            "linguistics", 
+            "linked data", 
+            "llod", 
+            "lod", 
+            "ontolex", 
+            "rdf", 
+            "terminology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=copyrighttermbank", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "11068", 
+        "email": "vrodriguez@delicias.dia.fi.upm.es", 
+        "name": "CopyrightTermBank"
+    }, 
+    "umthes": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 3, 
+        "links": {
+            "gemet": 3483.0
+        }, 
+        "tags": [
+            "access-notavailable", 
+            "environment", 
+            "format-skos", 
+            "government", 
+            "lld", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "lodcloud.needsfixing", 
+            "no-deref-vocab", 
+            "published-by-producer", 
+            "thesaurus", 
+            "topic.government", 
+            "topic.schemata"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=umthes", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "300000", 
+        "email": "thomas.bandholtz@innoq.com", 
+        "name": "UMTHES"
+    }, 
+    "stw-thesaurus-for-economics": {
+        "license": "http://www.opendefinition.org/licenses/odc-odbl", 
+        "deadurls": 1, 
+        "edgecount": 3, 
+        "links": {
+            "agrovoc-skos": 1100.0, 
+            "gesis-thesoz": 4300.0
+        }, 
+        "tags": [
+            "deref-vocab", 
+            "economics", 
+            "format-cc", 
+            "format-dc", 
+            "format-owl", 
+            "format-rdf", 
+            "format-rdfs", 
+            "format-skos", 
+            "format-xsd", 
+            "germany", 
+            "library", 
+            "license-metadata", 
+            "linkeddata", 
+            "lld", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "provenance-metadata", 
+            "publications", 
+            "published-by-producer", 
+            "rdf", 
+            "thesaurus", 
+            "vocab-mappings"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=stw-thesaurus-for-economics", 
+        "aliveurls": 11, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "112000", 
+        "email": "j.neubert@zbw.eu", 
+        "name": "STW Thesaurus for Economics"
+    }, 
+    "universal-dependencies-treebank-dutch": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-dutch", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "209411", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Dutch"
+    }, 
+    "environmental-applications-reference-thesaurus": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 1, 
+        "edgecount": 6, 
+        "links": {
+            "umthes": 2970.0, 
+            "eurovoc-in-skos": 1346.0, 
+            "agrovoc-skos": 1458.0, 
+            "thist": 1447.0, 
+            "gemet": 4365.0
+        }, 
+        "tags": [
+            "format-rdf", 
+            "format-skos", 
+            "geographic", 
+            "license-metadata", 
+            "lld", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-proprietary-vocab", 
+            "provenance-metadata", 
+            "published-by-third-party", 
+            "schemata", 
+            "thesaurus", 
+            "vocab-mappings", 
+            "void-sparql-endpoint"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=environmental-applications-reference-thesaurus", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "133315", 
+        "email": "Riccardo.albertoni@ge.imati.cnr.it", 
+        "name": "EARTh"
+    }, 
+    "dbnary": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "olia": 97049.0, 
+            "lexinfo": 17739763.0
+        }, 
+        "tags": [
+            "Dutch", 
+            "Linguistic Dataset LOD RDF", 
+            "bulgarian", 
+            "english", 
+            "finnish", 
+            "french", 
+            "german", 
+            "greek", 
+            "indonesian", 
+            "italian", 
+            "japanese", 
+            "latin", 
+            "lemon", 
+            "lexical-resources", 
+            "lithuanian", 
+            "llod", 
+            "lod", 
+            "malagasy", 
+            "norvegian", 
+            "polish", 
+            "portuguese", 
+            "russian", 
+            "serbo-croatian", 
+            "spanish", 
+            "swedish", 
+            "turkish", 
+            "wiktionary"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbnary", 
+        "aliveurls": 5, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "191801778", 
+        "email": "", 
+        "name": "dbnary"
+    }, 
+    "universal-dependencies-treebank-hebrew": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-hebrew", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "115535", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Hebrew"
+    }, 
+    "catalan-eurowordnet-lemon-lexicon-3-0": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "lexinfo": 48090.0
+        }, 
+        "tags": [
+            "EuroWordNet", 
+            "lemon", 
+            "lexicon", 
+            "lexinfo", 
+            "linguistics lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=catalan-eurowordnet-lemon-lexicon-3-0", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1841180", 
+        "email": "", 
+        "name": "Catalan EuroWordNet-lemon lexicon (3.0)"
+    }, 
+    "gemet": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 3, 
+        "edgecount": 6, 
+        "links": {
+            "umthes": 3483.0, 
+            "agrovoc-skos": 1199.0
+        }, 
+        "tags": [
+            "deref-vocab", 
+            "environment", 
+            "european", 
+            "format-rdf", 
+            "format-skos", 
+            "format-xhtml", 
+            "license-metadata", 
+            "lld", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "provenance-metadata", 
+            "published-by-third-party", 
+            "schemata", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=gemet", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "20229105", 
+        "email": "soren.roug@eea.europa.eu", 
+        "name": "GEneral Multilingual Environmental Thesaurus"
+    }, 
+    "apertium-rdf-es-ro": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 32453.0, 
+            "babelnet": 11606.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Romanian", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-es-ro", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "400366", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF ES-RO"
+    }, 
+    "universal-dependencies-treebank-french": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-french", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "391107", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank French"
+    }, 
+    "universal-dependencies-treebank-ukrainian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-ukrainian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1676", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Ukrainian"
+    }, 
+    "universal-dependencies-treebank-hungarian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-hungarian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "42032", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Hungarian"
+    }, 
+    "dbpedia-nl": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 2, 
+        "links": {
+            "wordnet": 85486.0
+        }, 
+        "tags": [
+            "access-api", 
+            "access-bulk", 
+            "access-www", 
+            "crossdomain", 
+            "deref-vocab", 
+            "format-foaf", 
+            "format-rdf", 
+            "format-rdfs", 
+            "format-xhtml", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-license-metadata", 
+            "no-provenance-metadata", 
+            "no-vocab-mappings", 
+            "published-by-producer", 
+            "rdf", 
+            "search", 
+            "void-sparql-endpoint", 
+            "wikipedia"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-nl", 
+        "aliveurls": 8, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "79674010", 
+        "email": "dbpedia-dutch@lists.sourceforge.net", 
+        "name": "DBpedia in Dutch"
+    }, 
+    "universal-dependencies-treebank-czech-cac": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-czech-cac", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "493306", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Czech-CAC"
+    }, 
+    "lexinfo": {
+        "license": "public-domain", 
+        "deadurls": 0, 
+        "edgecount": 35, 
+        "links": {
+            "isocat": 359.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "linguistic", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "ontology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=lexinfo", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "4374", 
+        "email": "", 
+        "name": "lexinfo"
+    }, 
+    "clld-phoible": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 2, 
+        "links": {
+            "clld-wals": 1666.0, 
+            "gold": 61973.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clld-phoible", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1664872", 
+        "email": "steven.moran@uzh.ch", 
+        "name": "CLLD-PHOIBLE"
+    }, 
+    "brown-corpus-in-rdf-nif": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 1161028.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "nif", 
+            "rdf"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=brown-corpus-in-rdf-nif", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "14335131", 
+        "email": "bruemmer@informatik.uni-leipzig.de", 
+        "name": "Brown Corpus in RDF/NIF"
+    }, 
+    "apertium-rdf-eu-es": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 20563.0, 
+            "babelnet": 9707.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Basque", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eu-es", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "262336", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EU-ES"
+    }, 
+    "universal-dependencies-treebank-norwegian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-norwegian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "310222", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Norwegian"
+    }, 
+    "clld-sails": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "clld-glottolog": 164.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clld-sails", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "564738", 
+        "email": "harald.hammarstroem@mpi.nl", 
+        "name": "CLLD-SAILS"
+    }, 
+    "ids": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 2, 
+        "edgecount": 2, 
+        "links": {
+            "wiktionary-dbpedia-org": 1832.0
+        }, 
+        "tags": [
+            "LOD", 
+            "crossdomain", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "published-by-producer", 
+            "typology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=ids", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "2000000", 
+        "email": "bibiko@eva.mpg.de", 
+        "name": "Intercontinental Dictionary Series"
+    }, 
+    "universal-dependencies-treebank-bulgarian": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-bulgarian", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "156319", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Bulgarian"
+    }, 
+    "universal-dependencies-treebank-portuguese-br": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-portuguese-br", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "298323", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Portuguese-BR"
+    }, 
+    "universal-dependencies-treebank-finnish-ftb": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-finnish-ftb", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "159314", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Finnish-FTB"
+    }, 
+    "apertium-rdf-eu-en": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 19223.0, 
+            "babelnet": 9332.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Basque", 
+            "English", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eu-en", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "265466", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EU-EN"
+    }, 
+    "clld-wals": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {}, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clld-wals", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1478985", 
+        "email": "contact.wals@livingreviews.org", 
+        "name": "CLLD-WALS"
+    }, 
+    "wordnet": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {}, 
+        "tags": [
+            "language", 
+            "linguistic", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=wordnet", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "email": "", 
+        "name": "Wordnet"
+    }, 
+    "universal-dependencies-treebank-sanskrit": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-sanskrit", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1031", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Sanskrit"
+    }, 
+    "universal-dependencies-treebank-english": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-english", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "254830", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank English"
+    }, 
+    "isocat": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 10, 
+        "links": {
+            "gold": 503.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "isocat", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=isocat", 
+        "aliveurls": 5, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "25000", 
+        "email": "", 
+        "name": "ISOcat"
+    }, 
+    "universal-dependencies-treebank-greek": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-greek", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "59156", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Greek"
+    }, 
+    "apertium-rdf-en-es": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 45449.0, 
+            "babelnet": 31290.0
+        }, 
+        "tags": [
+            "English", 
+            "Spanish", 
+            "apertium", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-en-es", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "576322", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EN-ES"
+    }, 
+    "apertium-rdf": {
+        "license": "open", 
+        "deadurls": 2, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 690650.0, 
+            "babelnet": 277089.0
+        }, 
+        "tags": [
+            "apertium", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexical-resource", 
+            "lexicon", 
+            "linguistic LOD", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8842516", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF"
+    }, 
+    "universal-dependencies-treebank-gothic": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-gothic", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "56128", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Gothic"
+    }, 
+    "lingvoj": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {}, 
+        "tags": [
+            "crossdomain", 
+            "deref-vocab", 
+            "format-dc", 
+            "format-owl", 
+            "format-rdf", 
+            "language", 
+            "license-metadata", 
+            "license-not-specified", 
+            "linked-data", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-vocab-mappings", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "rdf"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=lingvoj", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "22442", 
+        "email": "bernard [dot] vatant [at] mondeca [dot] com", 
+        "name": "lingvoj ? Languages of the World (Multilingual RDF Descriptions)"
+    }, 
+    "apertium-rdf-oc-es": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 24505.0, 
+            "babelnet": 2932.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Occitan", 
+            "Spanish", 
+            "addiction", 
+            "bilingual", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-oc-es", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "317162", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF OC-ES"
+    }, 
+    "universal-dependencies-treebank-japanese": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-japanese", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "92033", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Japanese"
+    }, 
+    "universal-dependencies-treebank-swedish-sign-language": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-swedish-sign-language", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "672", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Swedish_Sign_Language"
+    }, 
+    "universal-dependencies-treebank-chinese": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-chinese", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "123283", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Chinese"
+    }, 
+    "universal-dependencies-treebank-finnish": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-finnish", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "181022", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Finnish"
+    }, 
+    "universal-dependencies-treebank-czech-cltt": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-czech-cltt", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "35084", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Czech-CLTT"
+    }, 
+    "iwn": {
+        "license": "http://www.opendefinition.org/licenses/odc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "simple": 19896.0
+        }, 
+        "tags": [
+            "Linguistic Dataset LOD RDF", 
+            "linguistic", 
+            "llod", 
+            "lod", 
+            "rdf", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=iwn", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "515816", 
+        "email": "roberto.bartolini@ilc.cnr.it", 
+        "name": "IWN"
+    }, 
+    "universal-dependencies-treebank-latin-ittb": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-latin-ittb", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "291295", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Latin-ITTB"
+    }, 
+    "clld-apics": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "clld-glottolog": 75.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clld-apics", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "463009", 
+        "email": "apics.contact@gmail.com", 
+        "name": "CLLD-APICS"
+    }, 
+    "lemonuby": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 7, 
+        "links": {
+            "vu-wordnet": 206773.0, 
+            "olia": 1470741.0, 
+            "isocat": 69.0, 
+            "wiktionary-dbpedia-org": 76294.0
+        }, 
+        "tags": [
+            "english", 
+            "framenet", 
+            "german", 
+            "lemon", 
+            "lexical-resource", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "omegawiki", 
+            "wiktionary", 
+            "wordnet"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=lemonuby", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "32916476", 
+        "email": "", 
+        "name": "lemonUby"
+    }, 
+    "universal-dependencies-treebank-english-lines": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-english-lines", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "82821", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank English-LinES"
+    }, 
+    "clld-glottolog": {
+        "deadurls": 0, 
+        "edgecount": 5, 
+        "links": {
+            "gold": 24393.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clld-glottolog", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8322839", 
+        "email": "glottolog@shh.mpg.de", 
+        "name": "CLLD-GLOTTOLOG"
+    }, 
+    "iate-rdf": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {}, 
+        "tags": [
+            "lexicon", 
+            "linguistics"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=iate-rdf", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8081142", 
+        "email": "", 
+        "name": "IATE RDF"
+    }, 
+    "apertium-rdf-eo-fr": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 52622.0, 
+            "babelnet": 11340.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Esperanto", 
+            "French", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-eo-fr", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "726281", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF EO-FR"
+    }, 
+    "universal-dependencies-treebank-german": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-german", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "293088", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank German"
+    }, 
+    "multext-east": {
+        "license": "closed", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "gold": 15355.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=multext-east", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "127651", 
+        "email": "", 
+        "name": "Multext-East"
+    }, 
+    "masc": {
+        "license": "open", 
+        "deadurls": 3, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 67000.0
+        }, 
+        "tags": [
+            "american-english", 
+            "annotation", 
+            "corpus", 
+            "crossdomain", 
+            "english", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=masc", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1000000", 
+        "email": "anc@cs.vassar.edu", 
+        "name": "Manually Annotated Sub-Corpus (MASC) of the Open American National Corpus"
+    }, 
+    "universal-dependencies-treebank-swedish-lines": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-swedish-lines", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "79812", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Swedish-LinES"
+    }, 
+    "apertium-rdf-es-ast": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 66367.0, 
+            "babelnet": 2795.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Asturian", 
+            "Spanish", 
+            "bilingual", 
+            "dictionary", 
+            "general ontology of linguistic description", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-es-ast", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "825540", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF ES-AST"
+    }, 
+    "phoible": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "gold": 3422.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "phonology", 
+            "typological-database", 
+            "typology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=phoible", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "133076", 
+        "email": "", 
+        "name": "Phonetics Information Base and Lexicon (PHOIBLE)"
+    }, 
+    "apertium-rdf-fr-ca": {
+        "license": "open", 
+        "deadurls": 1, 
+        "edgecount": 2, 
+        "links": {
+            "lexinfo": 12355.0, 
+            "babelnet": 13361.0
+        }, 
+        "tags": [
+            "Apertium", 
+            "Catalan", 
+            "French", 
+            "bilingual", 
+            "dictionary", 
+            "lemon", 
+            "lexicon", 
+            "linguistic lod", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "multilingual", 
+            "rdf", 
+            "translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=apertium-rdf-fr-ca", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "152002", 
+        "email": "jgracia@fi.upm.es", 
+        "name": "Apertium RDF FR-CA"
+    }, 
+    "framester": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "babelnet": 171296.0
+        }, 
+        "tags": [
+            "BabelNet", 
+            "D0", 
+            "DOLCE", 
+            "FoundationalOntologies", 
+            "Frame", 
+            "FrameNet", 
+            "Framester", 
+            "LOD", 
+            "Semantics", 
+            "VerbNet", 
+            "WordNet", 
+            "llod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=framester", 
+        "aliveurls": 2, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "32105685", 
+        "email": "luigi.asprino@istc.cnr.it", 
+        "name": "Framester"
+    }
+}
