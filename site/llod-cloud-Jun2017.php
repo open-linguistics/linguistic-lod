@@ -33,10 +33,7 @@
 
             </section> <!-- section end -->
          <div class="four columns">
-            <h3><a href="llod-cloud.php">&lt;&lt; Latest</a></h3>
-         </div>
-         <div class="four columns">
-            <h3 style="text-align:right;"><a href="llod-cloud-May2017.php">May 2017 &gt;&gt;</a></h3>
+            <h3 style="text-align:right;"><a href="llod-cloud-Jul2016.php">July 2016 &gt;&gt;</a></h3>
          </div>
 
 
