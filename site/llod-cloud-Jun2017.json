@@ -281,10 +281,11 @@
     "babelnet": {
         "license": "nc", 
         "deadurls": 3, 
-        "edgecount": 31, 
+        "edgecount": 32, 
         "links": {
             "lemonuby": 22298.0, 
             "lexinfo": 75326283.0, 
+            "dbpedia": 27585374.0, 
             "wiktionary-dbpedia-org": 285912.0, 
             "wordnet-rdf": 322519.0
         }, 
@@ -306,6 +307,28 @@
         "triples": "1971744856", 
         "email": "cecconi@di.uniroma1.it", 
         "name": "BabelNet"
+    }, 
+    "jrc-names-mlode": {
+        "license": "closed", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 124651.0
+        }, 
+        "tags": [
+            "AKSW", 
+            "crossdomain", 
+            "jrc", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=jrc-names-mlode", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1458828", 
+        "email": "sherif@informatik.uni-leipzig.de", 
+        "name": "JRC-Names-MLODE"
     }, 
     "apertium-rdf-oc-ca": {
         "license": "open", 
@@ -390,8 +413,9 @@
     "thist": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 2, 
-        "edgecount": 5, 
+        "edgecount": 6, 
         "links": {
+            "dbpedia": 158.0, 
             "eurovoc-in-skos": 733.0, 
             "agrovoc-skos": 1695.0, 
             "environmental-applications-reference-thesaurus": 1440.0, 
@@ -443,6 +467,54 @@
         "email": "nalida@sfs.uni-tuebingen.de", 
         "name": "ISOcat-metadata"
     }, 
+    "muninn-world-war-i": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 1895.0
+        }, 
+        "tags": [
+            "access-api", 
+            "access-bulk", 
+            "access-www", 
+            "crossdomain", 
+            "deref-vocab", 
+            "format-cc", 
+            "format-dbpedia", 
+            "format-dc", 
+            "format-dcterms", 
+            "format-doap", 
+            "format-foaf", 
+            "format-graves", 
+            "format-mil", 
+            "format-naval", 
+            "format-owl", 
+            "format-prov", 
+            "format-rdf", 
+            "format-rdfs", 
+            "format-skos", 
+            "format-time", 
+            "format-void", 
+            "license-metadata", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "rdf", 
+            "search", 
+            "vocab-mappings", 
+            "void-sparql-endpoint"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=muninn-world-war-i", 
+        "aliveurls": 10, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "38927740", 
+        "email": "warren@muninn-project.org", 
+        "name": "Muninn World War I"
+    }, 
     "universal-dependencies-treebank-latin-proiel": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
         "deadurls": 0, 
@@ -462,6 +534,38 @@
         "triples": "165201", 
         "email": "", 
         "name": "Universal Dependencies Treebank Latin-PROIEL"
+    }, 
+    "associations": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 1580.0
+        }, 
+        "tags": [
+            "Artificial Intelligence", 
+            "associations", 
+            "format-rdfs", 
+            "human associations", 
+            "lifesciences", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "machine learning", 
+            "psychological", 
+            "psychology", 
+            "published-by-producer", 
+            "semantic associations", 
+            "thesaurus", 
+            "word associations"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=associations", 
+        "aliveurls": 8, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1680000", 
+        "email": "associations+spamprotect+remove+if+human@joernhees.de", 
+        "name": "associations"
     }, 
     "saldo-rdf": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -807,6 +911,56 @@
         "email": "john@mccr.ae", 
         "name": "EMN"
     }, 
+    "wikilinks-rdf-nif": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 31542468.0
+        }, 
+        "tags": [
+            "format-nif", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "ner", 
+            "nif", 
+            "rdf"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=wikilinks-rdf-nif", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "533016300", 
+        "email": "bruemmer@informatik.uni-leipzig.de", 
+        "name": "Wikilinks RDF/NIF"
+    }, 
+    "kore-50-nif-ner-corpus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 144.0
+        }, 
+        "tags": [
+            "corpus", 
+            "evaluation", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "ner", 
+            "nif", 
+            "rdf", 
+            "training"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=kore-50-nif-ner-corpus", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1410", 
+        "email": "magnus.knuth\"at\"hpi.uni-potsdam.de", 
+        "name": "KORE 50 NIF NER Corpus"
+    }, 
     "universal-dependencies-treebank-latvian": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
         "deadurls": 0, 
@@ -948,29 +1102,29 @@
         "email": "", 
         "name": "Universal Dependencies Treebank Slovak"
     }, 
-    "masc-bn-nif": {
-        "license": "public-domain", 
-        "deadurls": 1, 
+    "semanticquran": {
+        "license": "http://www.opendefinition.org/licenses/cc-nc", 
+        "deadurls": 2, 
         "edgecount": 1, 
         "links": {
-            "babelnet": 286416.0
+            "dbpedia": 7718.0
         }, 
         "tags": [
-            "annotation", 
-            "babelnet", 
-            "format-nif", 
-            "linguistic", 
-            "llod", 
-            "masc", 
-            "nif"
+            "AKSW", 
+            "Multiligualism", 
+            "crossdomain", 
+            "jrc", 
+            "linguistics", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30"
         ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=masc-bn-nif", 
-        "aliveurls": 1, 
+        "url": "http://datahub.io/api/3/action/package_show?id=semanticquran", 
+        "aliveurls": 4, 
         "formats": 0, 
         "rdf_owl": 0, 
-        "triples": "5620229", 
-        "email": "flati@di.uniroma1.it", 
-        "name": "MASC-BN-NIF"
+        "triples": "15741399", 
+        "email": "sherif@informatik.uni-leipzig.de", 
+        "name": "SemanticQuran"
     }, 
     "apertium-rdf-es-an": {
         "license": "open", 
@@ -1007,9 +1161,10 @@
     "dbpedia-es": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 1, 
-        "edgecount": 2, 
+        "edgecount": 3, 
         "links": {
-            "dbpedia-nl": 429827.0
+            "dbpedia-nl": 429827.0, 
+            "dbpedia": 837609.0
         }, 
         "tags": [
             "crossdomain", 
@@ -1027,6 +1182,32 @@
         "triples": "169101647", 
         "email": "mariano.rico@fi.upm.es", 
         "name": "DBpedia in Spanish"
+    }, 
+    "news-100-nif-ner-corpus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 1547.0
+        }, 
+        "tags": [
+            "corpus", 
+            "evaluation", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "ner", 
+            "nif", 
+            "rdf", 
+            "training"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=news-100-nif-ner-corpus", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "12289", 
+        "email": "ricardo.usbeck@googlemail.com", 
+        "name": "News-100 NIF NER Corpus"
     }, 
     "universal-dependencies-treebank-latin": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
@@ -1221,6 +1402,35 @@
         "email": "", 
         "name": "Universal Dependencies Treebank Polish"
     }, 
+    "ontos-news-portal": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 6935.0
+        }, 
+        "tags": [
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "media", 
+            "news", 
+            "nlp", 
+            "no-deref-vocab", 
+            "published-by-producer", 
+            "rdf", 
+            "semantic-web"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=ontos-news-portal", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "2677965", 
+        "email": "", 
+        "name": "Ontos News Portal"
+    }, 
     "mlsa": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
@@ -1241,6 +1451,36 @@
         "triples": "21000", 
         "email": "", 
         "name": "MLSA - A Multi-layered Reference Corpus for German Sentiment Analysis"
+    }, 
+    "open-data-thesaurus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 50.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "deref-vocab", 
+            "format-owl", 
+            "format-skos", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "ogd", 
+            "opendata", 
+            "published-by-producer", 
+            "technology", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=open-data-thesaurus", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "8000", 
+        "email": "a.blumauer@semantic-web.at", 
+        "name": "Open Data Thesaurus"
     }, 
     "universal-dependencies-treebank-spanish": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
@@ -1265,8 +1505,9 @@
     "gesis-thesoz": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
         "deadurls": 5, 
-        "edgecount": 3, 
+        "edgecount": 4, 
         "links": {
+            "dbpedia": 5024.0, 
             "stw-thesaurus-for-economics": 5294.0, 
             "agrovoc-skos": 846.0
         }, 
@@ -1300,6 +1541,132 @@
         "triples": "438901", 
         "email": "benjamin.zapilko@gesis.org", 
         "name": "TheSoz Thesaurus for the Social Sciences (GESIS)"
+    }, 
+    "lodac-bdls": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 5, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 18545.0
+        }, 
+        "tags": [
+            "biology", 
+            "deref-vocab", 
+            "format-dcndl", 
+            "format-dcterms", 
+            "format-rdfs", 
+            "format-skos", 
+            "license-metadata", 
+            "lifesciences", 
+            "llod", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-vocab-mappings", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "rdf"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=lodac-bdls", 
+        "aliveurls": 5, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "5764962", 
+        "email": "", 
+        "name": "LODAC BDLS"
+    }, 
+    "fao-geopolitical-ontology": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 195.0
+        }, 
+        "tags": [
+            "access-web", 
+            "agrovoc", 
+            "arabic", 
+            "borders", 
+            "change", 
+            "chinese", 
+            "code", 
+            "country", 
+            "country-netherlands", 
+            "crossdomain", 
+            "dbpedia", 
+            "deref-vocab", 
+            "english", 
+            "fao", 
+            "faostat", 
+            "format-dc", 
+            "format-owl", 
+            "french", 
+            "geographic", 
+            "geopolitical", 
+            "government", 
+            "group", 
+            "historical", 
+            "id", 
+            "information", 
+            "iso2", 
+            "iso3", 
+            "italian", 
+            "llod", 
+            "lod", 
+            "lod.fao.geopolitical", 
+            "lodcloud-diagram-2011", 
+            "lodcloud-diagram-2014", 
+            "lodcloud-diagram-2014-08-30", 
+            "lodcloud.nolinks", 
+            "lodcloud.unconnected", 
+            "memberships", 
+            "names", 
+            "no-license-metadata", 
+            "ontology", 
+            "owl", 
+            "profiles", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "rdf", 
+            "russian", 
+            "schemata", 
+            "services", 
+            "spanish", 
+            "track", 
+            "un", 
+            "vocab-mappings"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=fao-geopolitical-ontology", 
+        "aliveurls": 8, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "22495", 
+        "email": "soonho.kim@fao.org", 
+        "name": "FAO geopolitical ontology"
+    }, 
+    "asit": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 130.0
+        }, 
+        "tags": [
+            "Italian", 
+            "corpus", 
+            "dialect", 
+            "linguistics", 
+            "llod", 
+            "lod", 
+            "questionnaire", 
+            "syntax"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=asit", 
+        "aliveurls": 5, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "420000", 
+        "email": "", 
+        "name": "Atlante Sintattico d'Italia (ASIt)"
     }, 
     "universal-dependencies-treebank-vietnamese": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -1339,6 +1706,54 @@
         "triples": "8903374", 
         "email": "john@mccr.ae", 
         "name": "WordNet-RDF"
+    }, 
+    "masc-bn-nif": {
+        "license": "public-domain", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "babelnet": 286416.0
+        }, 
+        "tags": [
+            "annotation", 
+            "babelnet", 
+            "format-nif", 
+            "linguistic", 
+            "llod", 
+            "masc", 
+            "nif"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=masc-bn-nif", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "5620229", 
+        "email": "flati@di.uniroma1.it", 
+        "name": "MASC-BN-NIF"
+    }, 
+    "dbpedia-abstract-corpus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 82318744.0
+        }, 
+        "tags": [
+            "corpus", 
+            "dbpedia", 
+            "freme-project", 
+            "linguistics", 
+            "llod", 
+            "ner", 
+            "nif"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-abstract-corpus", 
+        "aliveurls": 14, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "743532157", 
+        "email": "bruemmer@informatik.uni-leipzig.de", 
+        "name": "DBpedia abstract corpus"
     }, 
     "lemonwiktionary": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -1382,27 +1797,6 @@
         "triples": "351704", 
         "email": "", 
         "name": "Universal Dependencies Treebank Hindi"
-    }, 
-    "zhishi-me": {
-        "license": "http://www.opendefinition.org/licenses/cc-nc", 
-        "deadurls": 0, 
-        "edgecount": 1, 
-        "links": {}, 
-        "tags": [
-            "chinese", 
-            "crossdomain", 
-            "format-rdf", 
-            "llod", 
-            "lod", 
-            "sparql"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=zhishi-me", 
-        "aliveurls": 3, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "125000000", 
-        "email": "", 
-        "name": "Zhishi.me"
     }, 
     "universal-dependencies-treebank-slovenian-sst": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
@@ -1676,8 +2070,9 @@
     "rkb-explorer-wordnet": {
         "license": "closed", 
         "deadurls": 0, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {
+            "dbpedia": 38.0, 
             "lingvoj": 38.0
         }, 
         "tags": [
@@ -1766,6 +2161,38 @@
         "triples": "10279", 
         "email": "", 
         "name": "Parole/Simple 'lexinfo' Ontology & lexicons"
+    }, 
+    "wold": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 5, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 16362.0
+        }, 
+        "tags": [
+            "LOD", 
+            "crossdomain", 
+            "format-dcterms", 
+            "format-gold", 
+            "format-kml", 
+            "format-lexvo", 
+            "format-skos", 
+            "format-wn", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "no-proprietary-vocab", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "typology"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=wold", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "1000000", 
+        "email": "forkel@eva.mpg.de", 
+        "name": "World Loanword Database"
     }, 
     "universal-dependencies-treebank-galician-treegal": {
         "license": "open", 
@@ -1898,6 +2325,38 @@
         "email": "", 
         "name": "Universal Dependencies Treebank Portuguese-Bosque"
     }, 
+    "clean-energy-data-reegle": {
+        "license": "http://reference.data.gov.uk/id/open-government-licence", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 330.0
+        }, 
+        "tags": [
+            "climate", 
+            "deref-vocab", 
+            "energy", 
+            "format-skos", 
+            "government", 
+            "license-metadata", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "renewable-energy", 
+            "save-energy", 
+            "thesaurus", 
+            "void-sparql-endpoint"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=clean-energy-data-reegle", 
+        "aliveurls": 14, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "334049", 
+        "email": "", 
+        "name": "Linked Clean Energy Data (reegle.info)"
+    }, 
     "apertium-rdf-es-ca": {
         "license": "open", 
         "deadurls": 1, 
@@ -1957,8 +2416,10 @@
     "wiktionary-dbpedia-org": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 1, 
-        "edgecount": 6, 
-        "links": {}, 
+        "edgecount": 7, 
+        "links": {
+            "dbpedia": 25155.0
+        }, 
         "tags": [
             "crossdomain", 
             "linguistics", 
@@ -2036,8 +2497,9 @@
     "clld-wold": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {
+            "dbpedia": 229.0, 
             "clld-glottolog": 223.0
         }, 
         "tags": [
@@ -2052,6 +2514,26 @@
         "triples": "1764648", 
         "email": "contact.wold@livingreviews.org", 
         "name": "CLLD-WOLD"
+    }, 
+    "panlex": {
+        "license": "open", 
+        "deadurls": 0, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 2536556.0
+        }, 
+        "tags": [
+            "lexicon", 
+            "linguistics", 
+            "machine_translation"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=panlex", 
+        "aliveurls": 6, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "786205297", 
+        "email": "patrick.westphal@informatik.uni-leipzig.de", 
+        "name": "PanLex"
     }, 
     "universal-dependencies-treebank-indonesian": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
@@ -2073,26 +2555,6 @@
         "email": "", 
         "name": "Universal Dependencies Treebank Indonesian"
     }, 
-    "universal-dependencies-treebank-kazakh": {
-        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
-        "deadurls": 0, 
-        "edgecount": 1, 
-        "links": {
-            "olia": 72.0
-        }, 
-        "tags": [
-            "corpus", 
-            "linguistics", 
-            "lod"
-        ], 
-        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-kazakh", 
-        "aliveurls": 3, 
-        "formats": 0, 
-        "rdf_owl": 0, 
-        "triples": "6023", 
-        "email": "", 
-        "name": "Universal Dependencies Treebank Kazakh"
-    }, 
     "universal-dependencies-treebank-estonian": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
         "deadurls": 0, 
@@ -2113,11 +2575,98 @@
         "email": "", 
         "name": "Universal Dependencies Treebank Estonian"
     }, 
-    "clld-afbo": {
+    "dbpedia-spotlight-nif-ner-corpus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 325.0
+        }, 
+        "tags": [
+            "dbpedia", 
+            "evaluatio", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "ner", 
+            "nif", 
+            "spotlight", 
+            "training"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia-spotlight-nif-ner-corpus", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "3425", 
+        "email": "magnus.knuth\"at\"hpi.uni-potsdam.de", 
+        "name": "DBpedia Spotlight NIF NER Corpus"
+    }, 
+    "universal-dependencies-treebank-kazakh": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
         "edgecount": 1, 
         "links": {
+            "olia": 72.0
+        }, 
+        "tags": [
+            "corpus", 
+            "linguistics", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=universal-dependencies-treebank-kazakh", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "6023", 
+        "email": "", 
+        "name": "Universal Dependencies Treebank Kazakh"
+    }, 
+    "dbpedia": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 2, 
+        "edgecount": 47, 
+        "links": {}, 
+        "tags": [
+            "access-api", 
+            "access-bulk", 
+            "access-www", 
+            "ckanupload.esw.200910", 
+            "crossdomain", 
+            "deref-vocab", 
+            "format-foaf", 
+            "format-owl", 
+            "format-prov", 
+            "format-rdf", 
+            "format-rdfs", 
+            "format-xhtml", 
+            "lod", 
+            "lodcloud-diagram-2007-05-01", 
+            "lodcloud-diagram-2007-10-08", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-license-metadata", 
+            "no-vocab-mappings", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "rdf", 
+            "search", 
+            "void-sparql-endpoint", 
+            "wikipedia"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=dbpedia", 
+        "aliveurls": 9, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "9500000000", 
+        "email": "dbpedia-discussion@lists.sourceforge.net", 
+        "name": "DBpedia"
+    }, 
+    "clld-afbo": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 0, 
+        "edgecount": 2, 
+        "links": {
+            "dbpedia": 147.0, 
             "clld-glottolog": 157.0
         }, 
         "tags": [
@@ -2260,9 +2809,10 @@
     "copyrighttermbank": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 1, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {
-            "iate-rdf": 92.0
+            "iate-rdf": 92.0, 
+            "dbpedia": 237.0
         }, 
         "tags": [
             "lemon", 
@@ -2316,8 +2866,9 @@
     "stw-thesaurus-for-economics": {
         "license": "http://www.opendefinition.org/licenses/odc-odbl", 
         "deadurls": 1, 
-        "edgecount": 3, 
+        "edgecount": 4, 
         "links": {
+            "dbpedia": 3000.0, 
             "agrovoc-skos": 1100.0, 
             "gesis-thesoz": 4300.0
         }, 
@@ -2377,13 +2928,14 @@
     "environmental-applications-reference-thesaurus": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
         "deadurls": 1, 
-        "edgecount": 6, 
+        "edgecount": 7, 
         "links": {
-            "umthes": 2970.0, 
-            "eurovoc-in-skos": 1346.0, 
             "agrovoc-skos": 1458.0, 
+            "gemet": 4365.0, 
+            "eurovoc-in-skos": 1346.0, 
+            "dbpedia": 1862.0, 
             "thist": 1447.0, 
-            "gemet": 4365.0
+            "umthes": 2970.0
         }, 
         "tags": [
             "format-rdf", 
@@ -2500,9 +3052,10 @@
     "gemet": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 3, 
-        "edgecount": 6, 
+        "edgecount": 7, 
         "links": {
             "umthes": 3483.0, 
+            "dbpedia": 3005.0, 
             "agrovoc-skos": 1199.0
         }, 
         "tags": [
@@ -2625,8 +3178,9 @@
     "dbpedia-nl": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
-        "edgecount": 2, 
+        "edgecount": 3, 
         "links": {
+            "dbpedia": 566737.0, 
             "wordnet": 85486.0
         }, 
         "tags": [
@@ -2705,8 +3259,9 @@
     "clld-phoible": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 0, 
-        "edgecount": 2, 
+        "edgecount": 3, 
         "links": {
+            "dbpedia": 1672.0, 
             "clld-wals": 1666.0, 
             "gold": 61973.0
         }, 
@@ -2801,8 +3356,9 @@
     "clld-sails": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
         "deadurls": 0, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {
+            "dbpedia": 164.0, 
             "clld-glottolog": 164.0
         }, 
         "tags": [
@@ -2811,7 +3367,7 @@
             "lod"
         ], 
         "url": "http://datahub.io/api/3/action/package_show?id=clld-sails", 
-        "aliveurls": 2, 
+        "aliveurls": 3, 
         "formats": 0, 
         "rdf_owl": 0, 
         "triples": "564738", 
@@ -2841,6 +3397,38 @@
         "triples": "2000000", 
         "email": "bibiko@eva.mpg.de", 
         "name": "Intercontinental Dictionary Series"
+    }, 
+    "gemeenschappelijke-thesaurus-audiovisuele-archieven": {
+        "license": "http://www.opendefinition.org/licenses/odc-odbl", 
+        "deadurls": 3, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 25844.0
+        }, 
+        "tags": [
+            "deref-vocab", 
+            "digital-humanities", 
+            "format-rdf", 
+            "format-skos", 
+            "gtaa", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "media", 
+            "no-license-metadata", 
+            "no-provenance-metadata", 
+            "no-vocab-mappings", 
+            "published-by-producer", 
+            "schemata", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=gemeenschappelijke-thesaurus-audiovisuele-archieven", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "992797", 
+        "email": "", 
+        "name": "Gemeenschappelijke Thesaurus Audiovisuele Archieven ? Common Thesaurus Audiovisual Archives"
     }, 
     "universal-dependencies-treebank-bulgarian": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
@@ -2881,6 +3469,32 @@
         "triples": "298323", 
         "email": "", 
         "name": "Universal Dependencies Treebank Portuguese-BR"
+    }, 
+    "reuters-128-nif-ner-corpus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 650.0
+        }, 
+        "tags": [
+            "corpus", 
+            "evaluation", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "ner", 
+            "nif", 
+            "rdf", 
+            "training"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=reuters-128-nif-ner-corpus", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "6967", 
+        "email": "ricardo.usbeck@googlemail.com", 
+        "name": "Reuters-128 NIF NER Corpus"
     }, 
     "universal-dependencies-treebank-finnish-ftb": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -2937,8 +3551,10 @@
     "clld-wals": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
         "deadurls": 0, 
-        "edgecount": 1, 
-        "links": {}, 
+        "edgecount": 2, 
+        "links": {
+            "dbpedia": 2621.0
+        }, 
         "tags": [
             "linguistics", 
             "llod", 
@@ -3009,6 +3625,34 @@
         "triples": "254830", 
         "email": "", 
         "name": "Universal Dependencies Treebank English"
+    }, 
+    "xlid-lexica": {
+        "deadurls": 3, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 50
+        }, 
+        "tags": [
+            "catalan", 
+            "chinese", 
+            "dbpedia", 
+            "english", 
+            "german", 
+            "lexicon", 
+            "llod", 
+            "lod", 
+            "lrec-2014", 
+            "slovenian", 
+            "spanish", 
+            "word-list"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=xlid-lexica", 
+        "aliveurls": 1, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "300000000", 
+        "email": "", 
+        "name": "xLiD-Lexica"
     }, 
     "isocat": {
         "license": "http://www.opendefinition.org/licenses/cc-by", 
@@ -3135,11 +3779,42 @@
         "email": "", 
         "name": "Universal Dependencies Treebank Gothic"
     }, 
+    "geological-survey-of-austria-thesaurus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 4, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 100.0
+        }, 
+        "tags": [
+            "austria", 
+            "format-skos", 
+            "geographic", 
+            "geology", 
+            "geoscience", 
+            "lod", 
+            "lodcloud-diagram-2014-08-30", 
+            "no-license-metadata", 
+            "no-proprietary-vocab", 
+            "provenance-metadata", 
+            "published-by-producer", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=geological-survey-of-austria-thesaurus", 
+        "aliveurls": 17, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "40912", 
+        "email": "thesaurus@geologie.ac.at", 
+        "name": "Geological Survey of Austria (GBA) - Thesaurus"
+    }, 
     "lingvoj": {
         "license": "open", 
         "deadurls": 0, 
-        "edgecount": 1, 
-        "links": {}, 
+        "edgecount": 2, 
+        "links": {
+            "dbpedia": 215.0
+        }, 
         "tags": [
             "crossdomain", 
             "deref-vocab", 
@@ -3239,6 +3914,60 @@
         "email": "", 
         "name": "Universal Dependencies Treebank Swedish_Sign_Language"
     }, 
+    "socialsemweb-thesaurus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 300.0
+        }, 
+        "tags": [
+            "crossdomain", 
+            "deref-vocab", 
+            "format-owl", 
+            "format-skos", 
+            "lod", 
+            "lodcloud-diagram-2011-09-19", 
+            "lodcloud-diagram-2014-08-30", 
+            "people", 
+            "published-by-producer", 
+            "research", 
+            "semanticweb", 
+            "socialweb", 
+            "technology", 
+            "thesaurus", 
+            "usergeneratedcontent"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=socialsemweb-thesaurus", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "20000", 
+        "email": "", 
+        "name": "Social Semantic Web Thesaurus"
+    }, 
+    "linked-hypernyms": {
+        "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 50
+        }, 
+        "tags": [
+            "ldl-2014", 
+            "lexical-resources", 
+            "linguistics", 
+            "llod", 
+            "lod"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=linked-hypernyms", 
+        "aliveurls": 4, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "73000000", 
+        "email": "", 
+        "name": "linked hypernyms"
+    }, 
     "universal-dependencies-treebank-chinese": {
         "license": "http://www.opendefinition.org/licenses/cc-nc", 
         "deadurls": 0, 
@@ -3258,6 +3987,32 @@
         "triples": "123283", 
         "email": "", 
         "name": "Universal Dependencies Treebank Chinese"
+    }, 
+    "rss-500-nif-ner-corpus": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 524.0
+        }, 
+        "tags": [
+            "corpus", 
+            "evaluation", 
+            "linguistic", 
+            "linguistics", 
+            "lod", 
+            "ner", 
+            "nif", 
+            "rdf", 
+            "training"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=rss-500-nif-ner-corpus", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "10038", 
+        "email": "ricardo.usbeck@googlemail.com", 
+        "name": "RSS-500 NIF NER CORPUS"
     }, 
     "universal-dependencies-treebank-finnish": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
@@ -3298,6 +4053,44 @@
         "triples": "35084", 
         "email": "", 
         "name": "Universal Dependencies Treebank Czech-CLTT"
+    }, 
+    "pleiades": {
+        "license": "http://www.opendefinition.org/licenses/cc-by", 
+        "deadurls": 1, 
+        "edgecount": 1, 
+        "links": {
+            "dbpedia": 127.0
+        }, 
+        "tags": [
+            "ancient", 
+            "archaeology", 
+            "classics", 
+            "format-foaf", 
+            "format-geo", 
+            "format-rdf", 
+            "format-skos", 
+            "format-spacerel", 
+            "format-spatial", 
+            "geodata", 
+            "geographic", 
+            "geography", 
+            "greek", 
+            "historyhackday", 
+            "lod", 
+            "no-licence-metadata", 
+            "no-proprietary-vocab", 
+            "no-provenance-metadata", 
+            "published-by-producer", 
+            "roman", 
+            "thesaurus"
+        ], 
+        "url": "http://datahub.io/api/3/action/package_show?id=pleiades", 
+        "aliveurls": 3, 
+        "formats": 0, 
+        "rdf_owl": 0, 
+        "triples": "2600000", 
+        "email": "sean.gillies@nyu.edu", 
+        "name": "Pleiades"
     }, 
     "iwn": {
         "license": "http://www.opendefinition.org/licenses/odc-by", 
@@ -3345,8 +4138,9 @@
     "clld-apics": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 0, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {
+            "dbpedia": 54.0, 
             "clld-glottolog": 75.0
         }, 
         "tags": [
@@ -3415,8 +4209,9 @@
     }, 
     "clld-glottolog": {
         "deadurls": 0, 
-        "edgecount": 5, 
+        "edgecount": 6, 
         "links": {
+            "dbpedia": 7822.0, 
             "gold": 24393.0
         }, 
         "tags": [
@@ -3655,8 +4450,9 @@
     "framester": {
         "license": "http://www.opendefinition.org/licenses/cc-by-sa", 
         "deadurls": 1, 
-        "edgecount": 1, 
+        "edgecount": 2, 
         "links": {
+            "dbpedia": 6100025.0, 
             "babelnet": 171296.0
         }, 
         "tags": [
