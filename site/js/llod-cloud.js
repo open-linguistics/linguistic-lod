@@ -107,7 +107,7 @@ name_to_type = {
 
 /* Set the diagrams Height & Width */
 var h = 950, w = 1200;
-var defaultVertexSize = 11.0;
+var defaultVertexSize = 10.0;
 var minimumSize = 24.0;
 /* Establish/instantiate an SVG container object */
 var svg = d3.select("#diagram")
@@ -333,7 +333,7 @@ function makeDiag(json) {
         .links(links)
         .size([w,h])
         .linkDistance([2 * defaultVertexSize])
-        .charge([-12000])
+        .charge([-9000])
         .gravity(5.0)
         .start();
     /* Run the Force effect */
