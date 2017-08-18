@@ -100,7 +100,7 @@ name_to_type = {
     "apertium-rdf-eu-en": "lexicon.lexicon",
     "apertium-rdf-eo-es": "lexicon.lexicon",
     "multext-east": "corpus",
-    "bll-thesaurus": "lexicon.generalKB
+    "bll-thesaurus": "lexicon.generalKB"
 }
 
 
