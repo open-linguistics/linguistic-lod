@@ -39,12 +39,13 @@ and shows the current status of the linguistic linked open data cloud.</p>
 
 </ul>
 -->
-<h3>Legend</h3>
+<!--<h3>Legend</h3>
 <select class="legend default_select">
     <option name="type">By resource type</option>
     <option name="license">By license</option>
 </select>
-<a href="#" class="export_svg">Download SVG</a>
+<a href="#" class="export_svg">Download SVG</a>-->
+<img src="https://lod-cloud.net/clouds/linguistic-lod.svg"/>
 <div id="diagram"></div>
             </section> <!-- section end -->
 
