@@ -29,7 +29,7 @@
 
          <div id="diagram" class="align-center">
             <a href="llod-cloud">
-             <img src="https://lod-cloud.net/clouds/linguistic-lod.png"/>
+             <img src="https://lod-cloud.net/clouds/linguistic-lod.svg"/>
             </a>
              <h2><b><a href="llod-cloud">Interactive and Previous Versions</a></b></h2>
          </div>
