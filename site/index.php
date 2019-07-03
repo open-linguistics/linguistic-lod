@@ -29,7 +29,7 @@
 
          <div id="diagram" class="align-center">
             <a href="llod-cloud">
-            <object type="image/svg+xml" src="//lod-cloud.net/clouds/linguistic-lod.svg">
+            <object type="image/svg+xml" data="//lod-cloud.net/clouds/linguistic-lod.svg">
              <img src="https://lod-cloud.net/clouds/linguistic-lod.png"/>
             </object>
             </a>
